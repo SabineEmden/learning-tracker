@@ -143,6 +143,11 @@ Independent project
 - [WTF? What's the Future and Why It's Up to Us](https://www.oreilly.com/tim/wtf-book.html) by Tim O'Reilly
 
 
-## Acknowledgements 
+## Acknowledgements
+
+This project is inspired by Syk Houdeib's [Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker), by Alexander Kallaway's [#100DaysOfCode Challenge](https://github.com/kallaway/100-days-of-code), and by Shovan Chatterjee's [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path).
+
+I found Syk Houdeib's [Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker) through his post on Medium for freeCodeCamp [How I got my first developer job at age 40 after 10 months of hard work](https://medium.freecodecamp.org/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b).
+
 
 ## Note
