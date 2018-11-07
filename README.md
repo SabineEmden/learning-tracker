@@ -127,6 +127,7 @@ Independent project
 
 ### Blogs
 
+- [freeCodeCamp](https://medium.freecodecamp.org) on Medium
 - [Smashing Magazine](https://www.smashingmagazine.com)
 
 
