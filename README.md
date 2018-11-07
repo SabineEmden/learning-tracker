@@ -95,6 +95,14 @@ See [course description](https://www.techtalentsouth.com/courses/code-immersion/
 
 ## Resources
 
+### Podcasts
+
+- [Learn to Code With Me](https://learntocodewith.me/podcast/) with Laurence Bradford
+- [CodeNewbie](https://www.codenewbie.org/podcast) with Saron Yitbarek
+- [Base.cs](https://www.codenewbie.org/basecs) with Vaidehi Joshi and Saron Yitbarek
+- [Behind the Tech](https://behindthetech.libsynpro.com) with Kevin Scott
+
+
 ## Acknowledgements 
 
 ## Note
