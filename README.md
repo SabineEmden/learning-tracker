@@ -40,7 +40,18 @@ Rails | :bulb:
 
 *Coming Soon*
 
-Design and implement a responsive website for a minimum of three platforms while adhering to validation and accessibility standards.
+Design and implement a responsive website for a minimum of three platforms while adhering to validation and accessibility standards. Course project: Web Design for Everybody Capstone.
+
+Skills used: HTML, CSS, JavaScript, Bootstrap, Responsive Design
+
+
+### Memory Game
+
+*Coming Soon*
+
+Turn tiles in a grid, no more than two at a time, to reveal pictures and find matching pairs. Independent project. 
+
+Skills used: HTML, CSS, JavaScript, Bootstrap, Responsive Design
 
 
 ## Course Work
