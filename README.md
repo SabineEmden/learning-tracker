@@ -5,12 +5,13 @@ Tracking my technical skills, my coding projects, my course work, and helpful re
 
 ## Technical Skills
 
-**Skill Levels**
+Skill Level | Symbol
+--- | ---
 Basic Knowlegde | :bulb:
-Beginner        | :bulb: :bulb:
-Intermediate    | :bulb: :bulb: :bulb:
-Advanced        | :bulb: :bulb: :bulb: :bulb:
-Expert          | :bulb: :bulb: :bulb: :bulb:
+Beginner | :bulb: :bulb:
+Intermediate | :bulb: :bulb: :bulb:
+Advanced | :bulb: :bulb: :bulb: :bulb:
+Expert | :bulb: :bulb: :bulb: :bulb:
 
 Skill | Level
 --- | ---
