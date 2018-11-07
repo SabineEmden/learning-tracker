@@ -103,12 +103,44 @@ Independent project
 
 ## Resources
 
+### Online Courses
+
+- [Coursera](https://www.coursera.org)
+- [edX](https://www.edx.org)
+- [Udacity](https://www.udacity.com)
+
+
+### Tutorials
+
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com) by Shay Howe
+- [W3Schools Online Web Tutorials](https://www.w3schools.com)
+
+
+### Tools
+
+- [The W3C Markup Validation Service](https://validator.w3.org)
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org)
+- [Can I use?](https://caniuse.com) Support tables for HTML5, CSS3, etc.
+- [Am I Responsive?](http://ami.responsivedesign.is)
+- [Bootstrap](https://getbootstrap.com)
+
+
+### Blogs
+
+- [Smashing Magazine](https://www.smashingmagazine.com)
+
+
 ### Podcasts
 
 - [Learn to Code With Me](https://learntocodewith.me/podcast/) with Laurence Bradford
 - [CodeNewbie](https://www.codenewbie.org/podcast) with Saron Yitbarek
 - [Base.cs](https://www.codenewbie.org/basecs) with Vaidehi Joshi and Saron Yitbarek
 - [Behind the Tech](https://behindthetech.libsynpro.com) with Kevin Scott
+
+### Books
+
+- [A Mind For Numbers: How to Excel at Math and Science](https://barbaraoakley.com/books/a-mind-for-numbers/) by Barbara Oakley
+- [WTF? What's the Future and Why It's Up to Us](https://www.oreilly.com/tim/wtf-book.html) by Tim O'Reilly
 
 
 ## Acknowledgements 
