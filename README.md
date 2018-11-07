@@ -151,3 +151,6 @@ I found Syk Houdeib's [Learning Tracker](https://github.com/Syknapse/My-Learning
 
 
 ## Note
+
+- If you like this repo and find it useful, please consider starring it &#9733; (on the top right of the page).
+- If you would like to use it as a template to track your own learning, you can fork the repo and customize the files to your own needs.
