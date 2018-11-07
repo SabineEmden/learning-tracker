@@ -70,7 +70,7 @@ Skills used: HTML, CSS, JavaScript, Bootstrap, Responsive Design
   - [ ] Web Desing for Everybody Capstone
 
 - [ ] Python for Everybody Specialization
-(See [course descriptions](https://www.coursera.org/courses?query=python%20for%20everybody))
+(See [course descriptions](https://www.coursera.org/specializations/python))
   - [X] Programming for Everybody (Getting Started with Python)
   - [ ] Python Data Structures
   - [ ] Using Python to Access Web Data
