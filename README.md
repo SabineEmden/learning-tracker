@@ -6,31 +6,31 @@ Tracking my technical skills, my coding projects, my course work, and helpful re
 ## Technical Skills
 
 **Skill Levels**
-Basic Knowlegde | :blub:
-Beginner        | :blub: :blub:
-Intermediate    | :blub: :blub: :blub:
-Advanced        | :blub: :blub: :blub: :blub:
-Expert          | :blub: :blub: :blub: :blub:
+Basic Knowlegde | :bulb:
+Beginner        | :bulb: :bulb:
+Intermediate    | :bulb: :bulb: :bulb:
+Advanced        | :bulb: :bulb: :bulb: :bulb:
+Expert          | :bulb: :bulb: :bulb: :bulb:
 
 Skill | Level
 --- | ---
-HTML | :blub: :blub:
-CSS | :blub: :blub:
-JavaScript | :blub: :blub:
-jQuery | :blub:
-Bootstrap | :blub:
-Responsive Web Design | :blub: :blub:
-Web Accessibility | :blub: :blub:
-Command Line | :blub: :blub:
-Git | :blub: :blub: :blub:
-GitHub | :blub: :blub: :blub:
-Documentation | :blub:
-Python | :blub:
+HTML | :bulb: :bulb:
+CSS | :bulb: :bulb:
+JavaScript | :bulb: :bulb:
+jQuery | :bulb:
+Bootstrap | :bulb:
+Responsive Web Design | :bulb: :bulb:
+Web Accessibility | :bulb: :bulb:
+Command Line | :bulb: :bulb:
+Git | :bulb: :bulb: :bulb:
+GitHub | :bulb: :bulb: :bulb:
+Documentation | :bulb:
+Python | :bulb:
 XML | 
-JSON | :blub:
-SQL | :blub:
-Ruby | :blub:
-Rails | :blub:
+JSON | :bulb:
+SQL | :bulb:
+Ruby | :bulb:
+Rails | :bulb:
 
 
 ## Coding Projects
