@@ -4,7 +4,7 @@ Tracking my technical skills, my coding projects, my course work, and helpful re
 
 ## Technical Skills
 
-*Skill Levels*
+**Skill Levels**
 Basic Knowlegde | :blub:
 Beginner        | :blub: :blub:
 Intermediate    | :blub: :blub: :blub:
@@ -32,6 +32,10 @@ Ruby | :blub:
 Rails | :blub:
 
 ## Coding Projects
+
+### Portfolio Website
+*Coming Soon*
+Design and implement a responsive website for a minimum of three platforms while adhering to validation and accessibility standards.
 
 ## Course Work
 
