@@ -120,9 +120,12 @@ Independent project
 
 - [The W3C Markup Validation Service](https://validator.w3.org)
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org)
-- [Can I use?](https://caniuse.com) Support tables for HTML5, CSS3, etc.
-- [Am I Responsive?](http://ami.responsivedesign.is)
+
+
+### Documentation
+
 - [Bootstrap](https://getbootstrap.com)
+- [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
 
 
 ### Blogs
@@ -135,8 +138,8 @@ Independent project
 
 - [Learn to Code With Me](https://learntocodewith.me/podcast/) with Laurence Bradford
 - [CodeNewbie](https://www.codenewbie.org/podcast) with Saron Yitbarek
-- [Base.cs](https://www.codenewbie.org/basecs) with Vaidehi Joshi and Saron Yitbarek
 - [Behind the Tech](https://behindthetech.libsynpro.com) with Kevin Scott
+
 
 ### Books
 
