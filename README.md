@@ -11,13 +11,13 @@ HTML | :bulb: :bulb:
 CSS | :bulb: :bulb:
 JavaScript | :bulb: :bulb:
 jQuery | :bulb:
-Bootstrap | :bulb:
+Bootstrap | :bulb: :bulb:
 Responsive Web Design | :bulb: :bulb:
 Web Accessibility | :bulb: :bulb:
-Command Line | :bulb: :bulb:
+Command Line | :bulb: :bulb: :bulb:
 Git | :bulb: :bulb: :bulb:
 GitHub | :bulb: :bulb: :bulb:
-Documentation | :bulb:
+Documentation | :bulb: :bulb: :bulb:
 Python | :bulb:
 JSON | :bulb:
 SQL | :bulb:
@@ -61,7 +61,7 @@ Independent project
   - [X] Introduction to HTML5
   - [X] Introduction to CSS3
   - [X] Interactivity with JavaScript
-  - [ ] Advanced Styling with Responsive Design
+  - [X] Advanced Styling with Responsive Design
   - [ ] Web Desing for Everybody Capstone
 
 - [ ] Python for Everybody Specialization
