@@ -120,6 +120,7 @@ Independent project
 
 - [The W3C Markup Validation Service](https://validator.w3.org)
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org)
+- [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist)
 
 
 ### Documentation
