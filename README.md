@@ -2,6 +2,9 @@
 
 Tracking my technical skills, my coding projects, my course work, and helpful resources for learning web development and computer programming to plan, document, and share my progress.
 
+Learning logs:
+[November 2018](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2018Nov.md)
+
 
 ## Technical Skills
 
@@ -29,13 +32,15 @@ Rails | :bulb:
 
 ### Portfolio Website
 
-*Coming Soon*
+*Work in Progress* https://sabineemden.github.io
 
-Design and implement a responsive website for a minimum of three platforms while adhering to validation and accessibility standards. 
+Design and implement a responsive website for a minimum of two platforms while adhering to validation and accessibility standards. 
 
-Skills used: HTML, CSS, JavaScript, Bootstrap, Responsive Design, Web Accessibility
+Skills used: HTML5, CSS3, JavaScript, Bootstrap 4, responsive web design, web accessibility
 
 Course project: Web Design for Everybody Capstone
+
+[GitHub repository](https://github.com/SabineEmden/SabineEmden.github.io)
 
 
 ### Memory Game
@@ -44,7 +49,7 @@ Course project: Web Design for Everybody Capstone
 
 Turn tiles in a grid, no more than two at a time, to reveal pictures and find matching pairs. 
 
-Skills used: HTML, CSS, JavaScript, Bootstrap, Responsive Design
+Skills used: HTML, CSS, JavaScript, Responsive Design
 
 Independent project
 
