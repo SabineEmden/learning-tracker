@@ -3,7 +3,8 @@
 Tracking my technical skills, my coding projects, my course work, and helpful resources for learning web development and computer programming to plan, document, and share my progress.
 
 Learning logs:
-[November 2018](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2018Nov.md)
+[November 2018](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2018Nov.md) | 
+[December 2018](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2018Dec.md)
 
 
 ## Technical Skills
@@ -32,7 +33,9 @@ Rails | :bulb:
 
 ### Portfolio Website
 
-*Work in Progress* https://sabineemden.github.io
+https://sabineemden.github.io
+
+*Completed*
 
 Design and implement a responsive website for a minimum of two platforms while adhering to validation and accessibility standards. 
 
@@ -119,6 +122,7 @@ Independent project
 
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com) by Shay Howe
 - [W3Schools Online Web Tutorials](https://www.w3schools.com)
+- [Frontend Mentor](https://www.frontendmentor.io)
 
 
 ### Tools
@@ -131,6 +135,7 @@ Independent project
 ### Documentation
 
 - [Bootstrap](https://getbootstrap.com)
+- [Font Awesome](https://fontawesome.com)
 - [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
 
 
