@@ -33,9 +33,9 @@ Rails | :bulb:
 
 ### Portfolio Website
 
-https://sabineemden.github.io
-
 *Completed*
+
+https://sabineemden.github.io
 
 Design and implement a responsive website for a minimum of two platforms while adhering to validation and accessibility standards. 
 
