@@ -61,16 +61,16 @@ Independent project
 
 ### Coursera
 
-- [x] Internet History, Technology, and Security
+- [X] Internet History, Technology, and Security
 (See [course description](https://www.coursera.org/learn/internet-history))
 
-- [ ] Web Design for Everybody (Basics of Web Development and Coding) Specialization
+- [X] Web Design for Everybody (Basics of Web Development and Coding) Specialization
 (See [course descriptions](https://www.coursera.org/specializations/web-design), [repository](https://github.com/SabineEmden/coursera-web-design))
   - [X] Introduction to HTML5
   - [X] Introduction to CSS3
   - [X] Interactivity with JavaScript
   - [X] Advanced Styling with Responsive Design
-  - [ ] Web Desing for Everybody Capstone
+  - [X] Web Desing for Everybody Capstone
 
 - [ ] Python for Everybody Specialization
 (See [course descriptions](https://www.coursera.org/specializations/python))
