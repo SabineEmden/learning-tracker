@@ -5,6 +5,7 @@ Tracking my technical skills, my coding projects, my course work, and helpful re
 Learning logs:
 [November 2018](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2018Nov.md) | 
 [December 2018](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2018Dec.md)
+[January 2019](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2019Jan.md)
 
 
 ## Technical Skills
