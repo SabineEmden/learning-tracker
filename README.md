@@ -3,31 +3,26 @@
 Tracking my technical skills, my coding projects, my course work, and helpful resources for learning web development and computer programming to plan, document, and share my progress.
 
 Learning logs:
-[November 2018](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2018Nov.md) | 
-[December 2018](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2018Dec.md)
-[January 2019](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2019Jan.md)
+[February 2020](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2020February.md)
 
 
 ## Technical Skills
 
 Skill | Level
 --- | ---
-HTML | :bulb: :bulb:
+HTML | :bulb: :bulb: :bulb: :bulb:
 CSS | :bulb: :bulb:
-JavaScript | :bulb: :bulb:
-jQuery | :bulb:
+JavaScript | :bulb:
 Bootstrap | :bulb: :bulb:
-Responsive Web Design | :bulb: :bulb:
+Responsive Web Design | :bulb:
 Web Accessibility | :bulb: :bulb:
 Command Line | :bulb: :bulb: :bulb:
 Git | :bulb: :bulb: :bulb:
 GitHub | :bulb: :bulb: :bulb:
-Documentation | :bulb: :bulb: :bulb:
 Python | :bulb:
-JSON | :bulb:
-SQL | :bulb:
-Ruby | :bulb:
-Rails | :bulb:
+PHP | :bulb:
+WordPress Development | :bulb:
+Agile Methodologies | :bulb:
 
 
 ## Coding Projects
@@ -47,17 +42,6 @@ Course project: Web Design for Everybody Capstone
 [GitHub repository](https://github.com/SabineEmden/SabineEmden.github.io)
 
 
-### Memory Game
-
-*Coming Soon*
-
-Turn tiles in a grid, no more than two at a time, to reveal pictures and find matching pairs. 
-
-Skills used: HTML, CSS, JavaScript, Responsive Design
-
-Independent project
-
-
 ## Course Work
 
 ### Coursera
@@ -66,7 +50,7 @@ Independent project
 (See [course description](https://www.coursera.org/learn/internet-history))
 
 - [X] Web Design for Everybody (Basics of Web Development and Coding) Specialization
-(See [course descriptions](https://www.coursera.org/specializations/web-design), [repository](https://github.com/SabineEmden/coursera-web-design))
+(See [course descriptions](https://www.coursera.org/specializations/web-design))
   - [X] Introduction to HTML5
   - [X] Introduction to CSS3
   - [X] Interactivity with JavaScript
@@ -88,6 +72,12 @@ Independent project
   - [ ] Building Database Applications in PHP
   - [ ] JavaScript, jQuery, and JSON
 
+- [ ] Agile Development Specialization (See [course descriptions](https://www.coursera.org/specializations/agile-development))
+  - [X] Agile Meets Design Thinking
+  - [ ] Running Product Design Sprints
+  - [ ] Managing an Agile Team
+  - [ ] Hypothesis Driven Development
+  - [ ] Agile Development in Practice (Project-centered Course)
 
 ### Udacity
 
@@ -98,16 +88,14 @@ Independent project
 (See [course description](https://www.udacity.com/course/version-control-with-git--ud123))
 
 - [X] GitHub & Collaboration
-(See [course description](https://www.udacity.com/course/github-collaboration--ud456))
+(Course discontinued)
 
 - [X] Writing READMEs
 (See [course description](https://www.udacity.com/course/writing-readmes--ud777))
 
+### Udemy
 
-### Tech Talent South
-
-- [X] Code Immersion, part-time
-(See [course description](https://www.techtalentsouth.com/courses/code-immersion/))
+- [ ] Become a WordPress Developer by Brad Schiff (See [course description](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/))
 
 
 ## Resources
@@ -117,53 +105,53 @@ Independent project
 - [Coursera](https://www.coursera.org)
 - [edX](https://www.edx.org)
 - [Udacity](https://www.udacity.com)
-
+- [Udemy](https://www.udemy.com)
 
 ### Tutorials
 
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com) by Shay Howe
 - [W3Schools Online Web Tutorials](https://www.w3schools.com)
-- [Frontend Mentor](https://www.frontendmentor.io)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
+### Coding Challenges
+
+- [Frontend Mentor](https://www.frontendmentor.io)
 
 ### Tools
 
 - [The W3C Markup Validation Service](https://validator.w3.org)
 - [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org)
-- [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist)
-
+- [Bootstrap](https://getbootstrap.com), CSS framework
+- [Git](https://git-scm.com), version control system
+- [Visual Studio Code](https://wptavern.com), text editor
+- [Local](https://localwp.com), local WordPress development
 
 ### Documentation
 
-- [Bootstrap](https://getbootstrap.com)
-- [Font Awesome](https://fontawesome.com)
-- [Writing on GitHub](https://help.github.com/categories/writing-on-github/)
-
+- [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist)
+- [GitHub](https://help.github.com/en/github)
+- [WordPress Developer Resources](https://developer.wordpress.org)
 
 ### Blogs
 
-- [freeCodeCamp](https://medium.freecodecamp.org) on Medium
-- [Smashing Magazine](https://www.smashingmagazine.com)
-
+- [freeCodeCamp](https://www.freecodecamp.org/news/)
+- [WordPress Tavern](https://wptavern.com)
 
 ### Podcasts
 
 - [Learn to Code With Me](https://learntocodewith.me/podcast/) with Laurence Bradford
 - [CodeNewbie](https://www.codenewbie.org/podcast) with Saron Yitbarek
-- [Behind the Tech](https://behindthetech.libsynpro.com) with Kevin Scott
 
 
 ### Books
 
 - [A Mind For Numbers: How to Excel at Math and Science](https://barbaraoakley.com/books/a-mind-for-numbers/) by Barbara Oakley
-- [WTF? What's the Future and Why It's Up to Us](https://www.oreilly.com/tim/wtf-book.html) by Tim O'Reilly
-
 
 ## Acknowledgements
 
 This project is inspired by Syk Houdeib's [Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker), by Alexander Kallaway's [#100DaysOfCode Challenge](https://github.com/kallaway/100-days-of-code), and by Shovan Chatterjee's [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path).
 
-I found Syk Houdeib's [Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker) through his post on Medium for freeCodeCamp [How I got my first developer job at age 40 after 10 months of hard work](https://medium.freecodecamp.org/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b).
+I found Syk Houdeib's [Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker) through his post for freeCodeCamp [How I switches career and got a developer job in 10 months: a true story](https://www.freecodecamp.org/news/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b/).
 
 
 ## Note
