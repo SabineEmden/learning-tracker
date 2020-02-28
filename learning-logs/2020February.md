@@ -6,7 +6,8 @@
 - [ ] Learn WordPress development.
 
 ### Key Results
-- [ ] Finish Udemy course [Become a WordPress Developer](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/) by Brad Schiff by March 7, 2020.
+- [ ] Read [WordPress Theme Handbook]((https://developer.wordpress.org/themes/)).
+- [ ] Finish Udemy course [Become a WordPress Developer](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/) by Brad Schiff.
 - [ ] Develop website for practice project similar to course project for Become a WordPress Developer.
 
 ## Daily Logs
@@ -53,6 +54,6 @@
   - Avoided CSS and JS caching during development by using microtime() as version number for main stylesheet and  JS script bundle in enqueue function.
 
 ### Thursday, February 27, 2020
-- Read "Getting Started" section of the [WordPress Theme Handbook](https://developer.wordpress.org/themes/).
+- Read "Getting Started" section of the WordPress Theme Handbook.
 - Reviewed yesterday's lessons in Become a WordPress Developer.
 
