@@ -42,7 +42,7 @@ Course project: Web Design for Everybody Capstone
 [GitHub repository](https://github.com/SabineEmden/SabineEmden.github.io)
 
 
-## Course Work
+## Coursework
 
 ### Coursera
 
@@ -74,7 +74,7 @@ Course project: Web Design for Everybody Capstone
 
 - [ ] Agile Development Specialization (See [course descriptions](https://www.coursera.org/specializations/agile-development))
   - [X] Agile Meets Design Thinking
-  - [ ] Running Product Design Sprints
+  - [X] Running Product Design Sprints
   - [ ] Managing an Agile Team
   - [ ] Hypothesis Driven Development
   - [ ] Agile Development in Practice (Project-centered Course)
