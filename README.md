@@ -48,20 +48,20 @@ Course project: Web Design for Everybody Capstone
   - [x] Prerequisites
   - [x] Git Basics
   - [x] HTML Foundations
-    - [x] Project: Recipes
+    - [x] Project: [Recipes](https://github.com/SabineEmden/odin-recipes)
   - [x] CSS Foundations
   - [x] Flexbox
-    - [x] Project: Landing Page
+    - [x] Project: [Landing Page](https://github.com/SabineEmden/odin-landing-page)
   - [x] JavaScript Basics
-    - [x] Project: Rock Paper Scissors
-    - [x] Project: Etch-a-Sketch
-    - [x] Project: Calculator
+    - [x] Project: [Rock Paper Scissors](https://github.com/SabineEmden/rock-paper-scissors)
+    - [x] Project: [Etch-a-Sketch](https://github.com/SabineEmden/etch-a-sketch)
+    - [x] Project: [Calculator](https://github.com/SabineEmden/calculator)
   - [x] Conclusion
 - [ ] Intermediate HTML and CSS
   - [x] Intermediate HTML Concepts
   - [x] Intermediate CSS Concepts
   - [x] Forms
-    - [x] Project: Sign-up Form
+    - [x] Project: [Sign-up Form](https://github.com/SabineEmden/odin-sign-up-form)
   - [ ] Grid
     - [ ] Project: Admin Dashboard
 - [ ] JavaScript
