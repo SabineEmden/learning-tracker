@@ -9,19 +9,19 @@ Learning logs:
 
 ## Technical Skills
 
-| Skill                 | Level                |
-| --------------------- | -------------------- |
-| HTML                  | :bulb: :bulb: :bulb: |
-| CSS                   | :bulb: :bulb:        |
-| JavaScript            | :bulb:               |
-| Astro                 | :bulb:               |
-| Responsive Web Design | :bulb: :bulb:        |
-| Web Accessibility     | :bulb: :bulb:        |
-| Command Line          | :bulb: :bulb:        |
-| Git                   | :bulb: :bulb:        |
-| GitHub                | :bulb: :bulb:        |
-| Figma                 | :bulb:               |
-| Agile Methodologies   | :bulb:               |
+| Skill                 | Level                       |
+| --------------------- | --------------------------- |
+| HTML                  | :bulb: :bulb: :bulb: :bulb: |
+| CSS                   | :bulb: :bulb: :bulb:        |
+| JavaScript            | :bulb: :bulb:               |
+| Astro                 | :bulb: :bulb:               |
+| Responsive Web Design | :bulb: :bulb:               |
+| Web Accessibility     | :bulb: :bulb:               |
+| Command Line          | :bulb: :bulb:               |
+| Git                   | :bulb: :bulb:               |
+| GitHub                | :bulb: :bulb:               |
+| Figma                 | :bulb:                      |
+| Agile Methodologies   | :bulb:                      |
 
 ## Coding Projects
 
