@@ -41,61 +41,93 @@ Course project: Web Design for Everybody Capstone
 
 ## Coursework
 
-### Coursera
+### The Odin Project
 
-- [x] Internet History, Technology, and Security
-      (See [course description](https://www.coursera.org/learn/internet-history))
-
-- [x] Web Design for Everybody (Basics of Web Development and Coding) Specialization
-      (See [course descriptions](https://www.coursera.org/specializations/web-design))
-
-  - [x] Introduction to HTML5
-  - [x] Introduction to CSS3
-  - [x] Interactivity with JavaScript
-  - [x] Advanced Styling with Responsive Design
-  - [x] Web Desing for Everybody Capstone
-
-- [ ] Python for Everybody Specialization
-      (See [course descriptions](https://www.coursera.org/specializations/python))
-
-  - [x] Programming for Everybody (Getting Started with Python)
-  - [ ] Python Data Structures
-  - [ ] Using Python to Access Web Data
-  - [ ] Using Databases with Python
-  - [ ] Capstone: Retrieving, Processing, and Visualizing Data with Python
-
-- [ ] Web Applications for Everybody Specialization
-      (See [course descriptions](https://www.coursera.org/specializations/web-applications))
-
-  - [ ] Building Web Applications in PHP
-  - [ ] Introduction to Structured Query Language (SQL)
-  - [ ] Building Database Applications in PHP
-  - [ ] JavaScript, jQuery, and JSON
-
-- [ ] Agile Development Specialization (See [course descriptions](https://www.coursera.org/specializations/agile-development))
-  - [x] Agile Meets Design Thinking
-  - [x] Running Product Design Sprints
-  - [ ] Managing an Agile Team
-  - [ ] Hypothesis Driven Development
-  - [ ] Agile Development in Practice (Project-centered Course)
-
-### Udacity
-
-- [x] Shell Workshop
-      (See [course description](https://www.udacity.com/course/shell-workshop--ud206))
-
-- [x] Version Control with Git
-      (See [course description](https://www.udacity.com/course/version-control-with-git--ud123))
-
-- [x] GitHub & Collaboration
-      (Course discontinued)
-
-- [x] Writing READMEs
-      (See [course description](https://www.udacity.com/course/writing-readmes--ud777))
-
-### Udemy
-
-- [ ] Become a WordPress Developer by Brad Schiff (See [course description](https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/))
+- [x] Foundations
+  - [x] Introduction
+  - [x] Prerequisites
+  - [x] Git Basics
+  - [x] HTML Foundations
+    - [x] Project: Recipes
+  - [x] CSS Foundations
+  - [x] Flexbox
+    - [x] Project: Landing Page
+  - [x] JavaScript Basics
+    - [x] Project: Rock Paper Scissors
+    - [x] Project: Etch-a-Sketch
+    - [x] Project: Calculator
+  - [x] Conclusion
+- [ ] Intermediate HTML and CSS
+  - [x] Intermediate HTML Concepts
+  - [x] Intermediate CSS Concepts
+  - [x] Forms
+    - [x] Project: Sign-up Form
+  - [ ] Grid
+    - [ ] Project: Admin Dashboard
+- [ ] JavaScript
+  - [ ] Introduction
+  - [ ] Organizing Your JavaScript Code
+    - [ ] Project: Library
+    - [ ] Project: Tic Tac Toe
+    - [ ] Project: Restaurant Page
+    - [ ] Project: Todo List
+  - [ ] JavaScript in the Real World
+  - [ ] Asynchronous JavaScript and APIs
+    - [ ] Project: Weather App
+  - [ ] A Bit of Computer Science
+    - [ ] Project: Recursion
+    - [ ] Project: Linked Lists
+    - [ ] Project: HashMap
+    - [ ] Project: Binary Search Tree
+    - [ ] Project: Knights Travails
+  - [ ] Intermediate Git
+  - [ ] Testing JavaScript
+    - [ ] Project: Testing Practice
+    - [ ] Project: Battleship
+  - [ ] Finishing Up with JavaScript
+- [ ] Advanced HTML and CSS
+  - [ ] Animation
+  - [ ] Accessibility
+  - [ ] Responsive Design
+    - [ ] Project: Homepage
+- [ ] React
+  - [ ] Introduction
+  - [ ] Getting Started with React
+  - [ ] States and Effects
+    - [ ] Project: CV Application
+    - [ ] Project: Memory Card
+  - [ ] Class Components
+  - [ ] React Testing
+  - [ ] The React Ecosystem
+    - [ ] Project: Shopping Card
+  - [ ] More React Concepts
+  - [ ] Conclusion
+- [ ] Databases
+  - [ ] Databases
+    - [ ] Project: SQL Zoo
+- [ ] NodeJS
+  - [ ] Introduction to NodeJS
+    - [ ] Project: Basic Informational Site
+  - [ ] Express
+    - [ ] Project: Mini Message Board
+    - [ ] Project: Inventory Application
+  - [ ] Authentication
+    - [ ] Project: Members Only
+  - [ ] ORMs
+    - [ ] Project: File Uploader
+  - [ ] APIs
+    - [ ] Project: Blog API
+  - [ ] Testing Express
+  - [ ] Full Stack Projects
+    - [ ] Project: Where's Waldo (A Photo Tagging App)
+    - [ ] Project: Messaging App
+  - [ ] FINAL PROJECT
+    - [ ] Project: Odin-Book
+- [ ] Getting Hired
+  - [ ] Preparing for Your Job Search
+    - [ ] Project: Building Your Personal Website
+  - [ ] Applying to and Interviewing for Jobs
+    - [ ] Project: Building Your Resume
 
 ## Resources
 
