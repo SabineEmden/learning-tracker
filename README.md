@@ -43,7 +43,9 @@ Course project: Web Design for Everybody Capstone
 
 ### The Odin Project
 
-- [x] Foundations
+I'm following the [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) learning path in [The Odin Project](https://www.theodinproject.com/about). Below I have listed the courses, course sections, and projects, with links to the overview pages for the courses and the GitHub repos for my finished projects.
+
+- [x] [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
   - [x] Introduction
   - [x] Prerequisites
   - [x] Git Basics
@@ -57,14 +59,14 @@ Course project: Web Design for Everybody Capstone
     - [x] Project: [Etch-a-Sketch](https://github.com/SabineEmden/etch-a-sketch)
     - [x] Project: [Calculator](https://github.com/SabineEmden/calculator)
   - [x] Conclusion
-- [ ] Intermediate HTML and CSS
+- [ ] [Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
   - [x] Intermediate HTML Concepts
   - [x] Intermediate CSS Concepts
   - [x] Forms
     - [x] Project: [Sign-up Form](https://github.com/SabineEmden/odin-sign-up-form)
   - [ ] Grid
     - [ ] Project: Admin Dashboard
-- [ ] JavaScript
+- [ ] [JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
   - [ ] Introduction
   - [ ] Organizing Your JavaScript Code
     - [ ] Project: Library
@@ -85,12 +87,12 @@ Course project: Web Design for Everybody Capstone
     - [ ] Project: Testing Practice
     - [ ] Project: Battleship
   - [ ] Finishing Up with JavaScript
-- [ ] Advanced HTML and CSS
+- [ ] [Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css)
   - [ ] Animation
   - [ ] Accessibility
   - [ ] Responsive Design
     - [ ] Project: Homepage
-- [ ] React
+- [ ] [React](https://www.theodinproject.com/paths/full-stack-javascript/courses/react)
   - [ ] Introduction
   - [ ] Getting Started with React
   - [ ] States and Effects
@@ -102,10 +104,10 @@ Course project: Web Design for Everybody Capstone
     - [ ] Project: Shopping Card
   - [ ] More React Concepts
   - [ ] Conclusion
-- [ ] Databases
+- [ ] [Databases](https://www.theodinproject.com/paths/full-stack-javascript/courses/databases)
   - [ ] Databases
     - [ ] Project: SQL Zoo
-- [ ] NodeJS
+- [ ] [NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
   - [ ] Introduction to NodeJS
     - [ ] Project: Basic Informational Site
   - [ ] Express
@@ -123,7 +125,7 @@ Course project: Web Design for Everybody Capstone
     - [ ] Project: Messaging App
   - [ ] FINAL PROJECT
     - [ ] Project: Odin-Book
-- [ ] Getting Hired
+- [ ] [Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired)
   - [ ] Preparing for Your Job Search
     - [ ] Project: Building Your Personal Website
   - [ ] Applying to and Interviewing for Jobs
