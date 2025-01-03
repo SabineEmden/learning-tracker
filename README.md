@@ -23,21 +23,19 @@ Learning logs:
 | Figma                 | :bulb:                      |
 | Agile Methodologies   | :bulb:                      |
 
-## Coding Projects
+## Personal Projects
 
-### Portfolio Website
+### Personal Website
 
-_Completed_
+_Under active development_
 
-https://sabineemden.github.io
+**Live site:** https://sabineemden.com
 
-Design and implement a responsive website for a minimum of two platforms while adhering to validation and accessibility standards.
+The website is powered by Astro, GitHub, and Netlify and based on the official [Astro Blog](https://astro.build/themes/details/blog/) template. I customized the template to my needs and made a few changes to improve responsiveness and accessibility.
 
-Skills used: HTML5, CSS3, JavaScript, Bootstrap 4, responsive web design, web accessibility
+**Skills used:** Astro, JavaScript, CSS, responsive design, web accessibility, HTML, version control with git and GitHub.
 
-Course project: Web Design for Everybody Capstone
-
-[GitHub repository](https://github.com/SabineEmden/SabineEmden.github.io)
+[GitHub repository](https://github.com/SabineEmden/astro-website)
 
 ## Coursework
 
