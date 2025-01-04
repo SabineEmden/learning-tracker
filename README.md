@@ -127,7 +127,24 @@ I'm following the [Full Stack JavaScript](https://www.theodinproject.com/paths/f
   - [ ] Preparing for Your Job Search
     - [ ] Project: Building Your Personal Website
   - [ ] Applying to and Interviewing for Jobs
-    - [ ] Project: Building Your Resume
+    - [ ] Project: Building Your
+
+## Coding Challenges
+
+### Frontend Mentor
+
+I use [Frontend Mentor](https://www.frontendmentor.io/) for additional coding practice. Below I have listed the learning paths and challenges, with links to the overview pages for the learning paths and to the GitHub repos for my solutions to the challenges.
+
+- [x] [Getting started on Frontend Mentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd)
+  - [x] Challenge: [QR code component](https://github.com/SabineEmden/qr-code-component)
+  - [x] Challenge: [Blog preview card](https://github.com/SabineEmden/blog-preview-card)
+  - [x] Challenge: [Social links profile](https://github.com/SabineEmden/fm-social-links-profile)
+  - [x] Challenge: [Recipe page](https://github.com/SabineEmden/fm-recipe-page)
+- [ ] [Building responsive layouts](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD)
+  - [ ] Challenge: [Product preview card component](https://github.com/SabineEmden/fm-product-preview-card-component)
+  - [ ] Challenge: Four card feature section
+  - [ ] Challenge: Testimonial grid section
+  - [ ] Challenge: Meeting landing page
 
 ## Resources
 
