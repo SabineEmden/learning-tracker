@@ -43,91 +43,106 @@ The website is powered by Astro, GitHub, and Netlify and based on the official [
 
 I'm following the [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) learning path in [The Odin Project](https://www.theodinproject.com/about). Below I have listed the courses, course sections, and projects, with links to the overview pages for the courses and the GitHub repos for my finished projects.
 
-- [x] [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
-  - [x] Introduction
-  - [x] Prerequisites
-  - [x] Git Basics
-  - [x] HTML Foundations
-    - [x] Project: [Recipes](https://github.com/SabineEmden/odin-recipes)
-  - [x] CSS Foundations
-  - [x] Flexbox
-    - [x] Project: [Landing Page](https://github.com/SabineEmden/odin-landing-page)
-  - [x] JavaScript Basics
-    - [x] Project: [Rock Paper Scissors](https://github.com/SabineEmden/rock-paper-scissors)
-    - [x] Project: [Etch-a-Sketch](https://github.com/SabineEmden/etch-a-sketch)
-    - [x] Project: [Calculator](https://github.com/SabineEmden/calculator)
-  - [x] Conclusion
-- [ ] [Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
-  - [x] Intermediate HTML Concepts
-  - [x] Intermediate CSS Concepts
-  - [x] Forms
-    - [x] Project: [Sign-up Form](https://github.com/SabineEmden/odin-sign-up-form)
-  - [ ] Grid
-    - [ ] Project: Admin Dashboard
-- [ ] [JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
-  - [ ] Introduction
-  - [ ] Organizing Your JavaScript Code
-    - [ ] Project: Library
-    - [ ] Project: Tic Tac Toe
-    - [ ] Project: Restaurant Page
-    - [ ] Project: Todo List
-  - [ ] JavaScript in the Real World
-  - [ ] Asynchronous JavaScript and APIs
-    - [ ] Project: Weather App
-  - [ ] A Bit of Computer Science
-    - [ ] Project: Recursion
-    - [ ] Project: Linked Lists
-    - [ ] Project: HashMap
-    - [ ] Project: Binary Search Tree
-    - [ ] Project: Knights Travails
-  - [ ] Intermediate Git
-  - [ ] Testing JavaScript
-    - [ ] Project: Testing Practice
-    - [ ] Project: Battleship
-  - [ ] Finishing Up with JavaScript
-- [ ] [Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css)
-  - [ ] Animation
-  - [ ] Accessibility
-  - [ ] Responsive Design
-    - [ ] Project: Homepage
-- [ ] [React](https://www.theodinproject.com/paths/full-stack-javascript/courses/react)
-  - [ ] Introduction
-  - [ ] Getting Started with React
-  - [ ] States and Effects
-    - [ ] Project: CV Application
-    - [ ] Project: Memory Card
-  - [ ] Class Components
-  - [ ] React Testing
-  - [ ] The React Ecosystem
-    - [ ] Project: Shopping Card
-  - [ ] More React Concepts
-  - [ ] Conclusion
-- [ ] [Databases](https://www.theodinproject.com/paths/full-stack-javascript/courses/databases)
-  - [ ] Databases
-    - [ ] Project: SQL Zoo
-- [ ] [NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
-  - [ ] Introduction to NodeJS
-    - [ ] Project: Basic Informational Site
-  - [ ] Express
-    - [ ] Project: Mini Message Board
-    - [ ] Project: Inventory Application
-  - [ ] Authentication
-    - [ ] Project: Members Only
-  - [ ] ORMs
-    - [ ] Project: File Uploader
-  - [ ] APIs
-    - [ ] Project: Blog API
-  - [ ] Testing Express
-  - [ ] Full Stack Projects
-    - [ ] Project: Where's Waldo (A Photo Tagging App)
-    - [ ] Project: Messaging App
-  - [ ] FINAL PROJECT
-    - [ ] Project: Odin-Book
-- [ ] [Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired)
-  - [ ] Preparing for Your Job Search
-    - [ ] Project: Building Your Personal Website
-  - [ ] Applying to and Interviewing for Jobs
-    - [ ] Project: Building Your
+#### [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
+
+- [x] Introduction
+- [x] Prerequisites
+- [x] Git Basics
+- [x] HTML Foundations
+  - [x] Project: [Recipes](https://github.com/SabineEmden/odin-recipes)
+- [x] CSS Foundations
+- [x] Flexbox
+  - [x] Project: [Landing Page](https://github.com/SabineEmden/odin-landing-page)
+- [x] JavaScript Basics
+  - [x] Project: [Rock Paper Scissors](https://github.com/SabineEmden/rock-paper-scissors)
+  - [x] Project: [Etch-a-Sketch](https://github.com/SabineEmden/etch-a-sketch)
+  - [x] Project: [Calculator](https://github.com/SabineEmden/calculator)
+- [x] Conclusion
+
+#### [Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
+
+- [x] Intermediate HTML Concepts
+- [x] Intermediate CSS Concepts
+- [x] Forms
+  - [x] Project: [Sign-up Form](https://github.com/SabineEmden/odin-sign-up-form)
+- [ ] Grid
+  - [ ] Project: Admin Dashboard
+
+#### [JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
+
+- [ ] Introduction
+- [ ] Organizing Your JavaScript Code
+  - [ ] Project: Library
+  - [ ] Project: Tic Tac Toe
+  - [ ] Project: Restaurant Page
+  - [ ] Project: Todo List
+- [ ] JavaScript in the Real World
+- [ ] Asynchronous JavaScript and APIs
+  - [ ] Project: Weather App
+- [ ] A Bit of Computer Science
+  - [ ] Project: Recursion
+  - [ ] Project: Linked Lists
+  - [ ] Project: HashMap
+  - [ ] Project: Binary Search Tree
+  - [ ] Project: Knights Travails
+- [ ] Intermediate Git
+- [ ] Testing JavaScript
+  - [ ] Project: Testing Practice
+  - [ ] Project: Battleship
+- [ ] Finishing Up with JavaScript
+
+#### [Advanced HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css)
+
+- [ ] Animation
+- [ ] Accessibility
+- [ ] Responsive Design
+  - [ ] Project: Homepage
+
+#### [React](https://www.theodinproject.com/paths/full-stack-javascript/courses/react)
+
+- [ ] Introduction
+- [ ] Getting Started with React
+- [ ] States and Effects
+  - [ ] Project: CV Application
+  - [ ] Project: Memory Card
+- [ ] Class Components
+- [ ] React Testing
+- [ ] The React Ecosystem
+  - [ ] Project: Shopping Card
+- [ ] More React Concepts
+- [ ] Conclusion
+
+#### [Databases](https://www.theodinproject.com/paths/full-stack-javascript/courses/databases)
+
+- [ ] Databases
+  - [ ] Project: SQL Zoo
+
+#### [NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
+
+- [ ] Introduction to NodeJS
+  - [ ] Project: Basic Informational Site
+- [ ] Express
+  - [ ] Project: Mini Message Board
+  - [ ] Project: Inventory Application
+- [ ] Authentication
+  - [ ] Project: Members Only
+- [ ] ORMs
+  - [ ] Project: File Uploader
+- [ ] APIs
+  - [ ] Project: Blog API
+- [ ] Testing Express
+- [ ] Full Stack Projects
+  - [ ] Project: Where's Waldo (A Photo Tagging App)
+  - [ ] Project: Messaging App
+- [ ] FINAL PROJECT
+  - [ ] Project: Odin-Book
+
+#### [Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired)
+
+- [ ] Preparing for Your Job Search
+  - [ ] Project: Building Your Personal Website
+- [ ] Applying to and Interviewing for Jobs
+  - [ ] Project: Building Your
 
 ## Coding Challenges
 
