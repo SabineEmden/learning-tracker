@@ -31,7 +31,7 @@ _Under active development_
 
 **Live site:** https://sabineemden.com
 
-The website is powered by Astro, GitHub, and Netlify and based on the official [Astro Blog](https://astro.build/themes/details/blog/) template. I customized the template to my needs and made a few changes to improve responsiveness and accessibility.
+The website is powered by Astro, GitHub, and Netlify and based on the official [Astro Blog](https://astro.build/themes/details/blog/) template. I customized the template to my needs and made changes to improve responsiveness and accessibility.
 
 **Skills used:** Astro, JavaScript, CSS, responsive design, web accessibility, HTML, version control with git and GitHub.
 
@@ -41,7 +41,7 @@ The website is powered by Astro, GitHub, and Netlify and based on the official [
 
 ### The Odin Project
 
-I'm following the [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) learning path in [The Odin Project](https://www.theodinproject.com/about). Below I have listed the courses, course sections, and projects, with links to the overview pages for the courses and the GitHub repos for my finished projects.
+I'm following the [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) learning path in [The Odin Project](https://www.theodinproject.com/about).
 
 #### [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
@@ -148,18 +148,21 @@ I'm following the [Full Stack JavaScript](https://www.theodinproject.com/paths/f
 
 ### Frontend Mentor
 
-I use [Frontend Mentor](https://www.frontendmentor.io/) for additional coding practice. Below I have listed the learning paths and challenges, with links to the overview pages for the learning paths and to the GitHub repos for my solutions to the challenges.
+I'm using the [Frontend Mentor](https://www.frontendmentor.io/) learning paths for additional coding practice.
 
-- [x] [Getting started on Frontend Mentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd)
-  - [x] Challenge: [QR code component](https://github.com/SabineEmden/qr-code-component)
-  - [x] Challenge: [Blog preview card](https://github.com/SabineEmden/blog-preview-card)
-  - [x] Challenge: [Social links profile](https://github.com/SabineEmden/fm-social-links-profile)
-  - [x] Challenge: [Recipe page](https://github.com/SabineEmden/fm-recipe-page)
-- [ ] [Building responsive layouts](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD)
-  - [ ] Challenge: [Product preview card component](https://github.com/SabineEmden/fm-product-preview-card-component)
-  - [ ] Challenge: Four card feature section
-  - [ ] Challenge: Testimonial grid section
-  - [ ] Challenge: Meeting landing page
+#### [Getting started on Frontend Mentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd)
+
+- [x] Challenge: [QR code component](https://github.com/SabineEmden/qr-code-component)
+- [x] Challenge: [Blog preview card](https://github.com/SabineEmden/blog-preview-card)
+- [x] Challenge: [Social links profile](https://github.com/SabineEmden/fm-social-links-profile)
+- [x] Challenge: [Recipe page](https://github.com/SabineEmden/fm-recipe-page)
+
+#### [Building responsive layouts](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD)
+
+- [ ] Challenge: [Product preview card component](https://github.com/SabineEmden/fm-product-preview-card-component)
+- [ ] Challenge: Four card feature section
+- [ ] Challenge: Testimonial grid section
+- [ ] Challenge: Meeting landing page
 
 ## Resources
 
