@@ -148,7 +148,7 @@ I'm following the [Full Stack JavaScript](https://www.theodinproject.com/paths/f
 
 ### Frontend Mentor
 
-I'm using the [Frontend Mentor](https://www.frontendmentor.io/) learning paths for additional coding practice.
+I'm using the [Frontend Mentor](https://www.frontendmentor.io/) learning paths to build additional projects.
 
 #### [Getting started on Frontend Mentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd)
 
