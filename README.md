@@ -2,9 +2,7 @@
 
 Tracking my technical skills, my coding projects, my course work, and helpful resources for learning web development and computer programming to plan, document, and share my progress.
 
-**Learning logs:**
-
-- [2025 Weekly Check-ins](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2025-weekly-checkins.md)
+**Learning log:** [2025 Weekly Check-ins](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2025-weekly-checkins.md)
 
 ## Technical Skills
 
@@ -162,54 +160,6 @@ I'm using the [Frontend Mentor](https://www.frontendmentor.io/) learning paths t
 - [ ] Challenge: Four card feature section
 - [ ] Challenge: Testimonial grid section
 - [ ] Challenge: Meeting landing page
-
-## Resources
-
-### Online Courses
-
-- [Coursera](https://www.coursera.org)
-- [edX](https://www.edx.org)
-- [Udacity](https://www.udacity.com)
-- [Udemy](https://www.udemy.com)
-
-### Tutorials
-
-- [Learn to Code HTML & CSS](https://learn.shayhowe.com) by Shay Howe
-- [W3Schools Online Web Tutorials](https://www.w3schools.com)
-- [MDN Web Docs](https://developer.mozilla.org/en-US/)
-
-### Coding Challenges
-
-- [Frontend Mentor](https://www.frontendmentor.io)
-
-### Tools
-
-- [The W3C Markup Validation Service](https://validator.w3.org)
-- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org)
-- [Bootstrap](https://getbootstrap.com), CSS framework
-- [Git](https://git-scm.com), version control system
-- [Visual Studio Code](https://wptavern.com), text editor
-- [Local](https://localwp.com), local WordPress development
-
-### Documentation
-
-- [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist)
-- [GitHub](https://help.github.com/en/github)
-- [WordPress Developer Resources](https://developer.wordpress.org)
-
-### Blogs
-
-- [freeCodeCamp](https://www.freecodecamp.org/news/)
-- [WordPress Tavern](https://wptavern.com)
-
-### Podcasts
-
-- [Learn to Code With Me](https://learntocodewith.me/podcast/) with Laurence Bradford
-- [CodeNewbie](https://www.codenewbie.org/podcast) with Saron Yitbarek
-
-### Books
-
-- [A Mind For Numbers: How to Excel at Math and Science](https://barbaraoakley.com/books/a-mind-for-numbers/) by Barbara Oakley
 
 ## Acknowledgements
 
