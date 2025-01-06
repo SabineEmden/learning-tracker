@@ -18,4 +18,4 @@ I felt a lot of resistance again filling out the template for my end-of-year ref
 
 **Matthias Ott** and his newsletter [Own Your Web - Issue 17: Jump Start](https://buttondown.com/ownyourweb/archive/issue-17/) inspired my to revive my learning tracker.
 
-I used [Jahresreflexion 2024](https://einguterplan.de/jahresreflexion/) (in German) by **Jan Lenarz** for _Ein guter Verlag_ for my end-of-year annual reflection.
+I used [Jahresreflexion 2024](https://einguterplan.de/jahresreflexion/) (in German) by **Jan Lenarz** for Ein guter Verlag for my end-of-year annual reflection.
