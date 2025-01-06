@@ -2,10 +2,8 @@
 
 Tracking my technical skills, my coding projects, my course work, and helpful resources for learning web development and computer programming to plan, document, and share my progress.
 
-Learning logs:
-[April 2020](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2020April.md) |
-[March 2020](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2020March.md) |
-[February 2020](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2020February.md)
+**Learning logs:**
+[Weekly Check-ins](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2025-weekly-checkins.md)
 
 ## Technical Skills
 
