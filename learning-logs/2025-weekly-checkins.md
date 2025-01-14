@@ -1,4 +1,4 @@
-# Weekly Check-ins
+# Weekly Check-ins 2025
 
 ## Week 1: December 30, 2024 through January 5, 2025
 
@@ -19,3 +19,23 @@ I felt a lot of resistance again filling out the template for my end-of-year ref
 **Matthias Ott** and his newsletter [Own Your Web - Issue 17: Jump Start](https://buttondown.com/ownyourweb/archive/issue-17/) inspired my to revive my learning tracker.
 
 I used [Jahresreflexion 2024](https://einguterplan.de/jahresreflexion/) (in German) by **Jan Lenarz** for Ein guter Verlag for my end-of-year annual reflection.
+
+## Week 2: January 6, 2025 through January 12, 2025
+
+### Recap
+
+I did not go back to coding and learning web development yet but took some time to focus on my mindfulness practice. And I finished my end-of-year reflection for 2024.
+
+On Friday evening, we got measurable amounts of snow in central North Carolina for the first time in almost three years.
+
+### Highs
+
+I was able to fight off a respiratory virus and didn't get any cold symptoms.
+
+### Lows
+
+I had to cancel all my plans for the weekend, on Saturday due to weather, on Sunday because I didn't want to risk spreading the virus I was fighting off.
+
+### Shout-outs
+
+I'm grateful for [seasonal flu vaccines](https://www.cdc.gov/flu/vaccines/keyfacts.html). Me getting my flu shot last fall could be a major reason why I didn't get sick this week.
