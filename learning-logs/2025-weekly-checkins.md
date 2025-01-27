@@ -39,3 +39,23 @@ I had to cancel all my plans for the weekend, on Saturday due to weather, on Sun
 ### Shout-outs
 
 I'm grateful for [seasonal flu vaccines](https://www.cdc.gov/flu/vaccines/keyfacts.html). Me getting my flu shot last fall could be a major reason why I didn't get sick this week.
+
+## Week 3: January 13, 2025 through January 19, 2025
+
+### Recap
+
+I resumed my work on [Project: Admin Dashboard](https://github.com/SabineEmden/odin-admin-dashboard) for The Odin Project. It's almost finished. All I have left to do are some updates to the README.
+
+I had oral surgery on Tuesday to get a tooth pulled.
+
+### Highs
+
+Over the course of my work on the Admin Dashboard, I spent a lot of time on the SVG icons, making them interactive and accessible. I'm pleased with the results.
+
+### Lows
+
+I got a sore throat on Saturday and had to cancel all my plans for the weekend again.
+
+### Shout-outs
+
+My dentist's office has a eclectic list of foods to eat after dental surgery. Among other things, they recommend crème brûlée, key lime pie, cheesecake, clams, and egg nog.
