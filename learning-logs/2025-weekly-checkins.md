@@ -58,4 +58,24 @@ I got a sore throat on Saturday and had to cancel all my plans for the weekend a
 
 ### Shout-outs
 
-My dentist's office has a eclectic list of foods to eat after dental surgery. Among other things, they recommend crème brûlée, key lime pie, cheesecake, clams, and egg nog.
+My dentist's office has a eclectic list of foods to eat after dental surgery. Among other things, they recommend crème brûlée, cupcake, key lime pie, cheesecake, clams, and egg nog.
+
+## Week 4: January 20, 2025 through January 26, 2025
+
+### Recap
+
+I didn't write a single line of code this week. I didn't even open my laptop.
+
+### Highs
+
+My sore throat finally started to get better on Wednesday. I'm not sure whether it was a cold or an adverse reaction to the antibiotic I took after I had dental surgery last week.
+
+### Lows
+
+I was feeling pretty miserable for the first half of the week. My sore and irritated throat gave me coughing fits.
+
+I missed the first session of the GRC spring training program on Thursday. The session on Tuesday got canceled because of snow.
+
+### Shout-outs
+
+I'm excited about starting training with the [Greensboro Running Club (GRC)](https://runsignup.com/MemberOrg/GreensboroRunningClub). The goal race for the 10-week spring training programm are the [Only Fools Run 5K and 10K](https://runsignup.com/Race/NC/Greensboro/OnlyFoolsRunHalfMarathonand10K) on March 29, 2025.
