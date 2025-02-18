@@ -5,7 +5,7 @@ Tracking my technical skills, personal projects, coursework, and coding challeng
 **Learning logs:**
 
 - [2025 Weekly Check-ins](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2025-weekly-checkins.md)
-- [100 Days of Code, JavaScript Edition](https://github.com/SabineEmden/learning-tracker/blob/learning-logs/100-days-of-code-js.md)
+- [100 Days of Code, JavaScript Edition](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/100-days-of-code-js.md)
 
 ## Technical Skills
 
