@@ -65,14 +65,14 @@ I'm following the [Full Stack JavaScript](https://www.theodinproject.com/paths/f
 - [x] Intermediate CSS Concepts
 - [x] Forms
   - [x] Project: [Sign-up Form](https://github.com/SabineEmden/odin-sign-up-form)
-- [ ] Grid
-  - [ ] Project: Admin Dashboard
+- [x] Grid
+  - [x] Project: [Admin Dashboard](https://github.com/SabineEmden/odin-admin-dashboard)
 
 #### [JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
 
-- [ ] Introduction
+- [x] Introduction
 - [ ] Organizing Your JavaScript Code
-  - [ ] Project: Library
+  - [ ] Project: [Library](https://github.com/SabineEmden/odin-library)
   - [ ] Project: Tic Tac Toe
   - [ ] Project: Restaurant Page
   - [ ] Project: Todo List
@@ -148,7 +148,7 @@ I'm following the [Full Stack JavaScript](https://www.theodinproject.com/paths/f
 
 ### Frontend Mentor
 
-I'm using the [Frontend Mentor](https://www.frontendmentor.io/) learning paths to build additional projects.
+I'm using the learning paths on [Frontend Mentor](https://www.frontendmentor.io/) to build additional projects.
 
 #### [Getting started on Frontend Mentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd)
 
