@@ -1,32 +1,51 @@
-# 100 Days Of Code - JavaScript Edition
+# 100 Days of Code - JavaScript Edition
 
-### Day 0: February 30, 2016 (Example 1)
+My goal for this 100 Days of Code Challenge is to finish the [JavaScript Course](https://www.findingsteadyground.com/) on the [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) learning path of The Odin Project. The course has 31 lessons and 12 projects.
 
-##### (delete me or comment me out)
+## Day 1: Monday, February 10, 2025
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+It's been more than three months since I last worked with JavaScript. I started with a quick refresher on the syntax. [Learn JavaScript in Y Minutes](https://learnxinyminutes.com/javascript/) is a good reference.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+## Day 2: Tuesday, February 11,
 
-**Link to work:** [Calculator App](http://www.example.com)
+I'm reviewing JavaScript objects before I dive into object constructors and prototypal inheritance. I'm happy to report I did not forget everything I learnt a couple of months ago.
 
-### Day 0: February 30, 2016 (Example 2)
+I started the [Getting Job Ready](https://www.frontendmentor.io/learning-paths/getting-job-ready-D1Oy0wCxWj) learning path on Frontend Mentor and worked on optimizing my GitHub profile. I made some improvements to my GitHub profile README. The README files in my GitHub repositories were already in good shape thanks to the README template that comes with all Frontend Mentor challenges.
 
-##### (delete me or comment me out)
+## Day 3: Wednesday, February 12, 2025
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Today's topics in my JavaScript course were object constructors, prototypes, and inheritance. It's a bit confusing. I hope it gets clearer once I start working with it, not just reading about it.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+## Day 4: Thursday, February 13, 2025
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+I started the first project for my JavaScript course. [Project: Library](https://github.com/SabineEmden/odin-library) a small library app. Users can see the books in the library, add and remove books, and toggle the status of a book between "not read yet" and "read".
 
-### Day 1: June 27, Monday
+## Day 5: Friday, February 14, 2025
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+My JavaScript review earlier this week didn't include DOM manipulation and events. I made up for that today.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+I also added code to my library project to display books on the page. So far it's only an unordered list. My goal is to have a card for each book with a button to delete the book from the library and another button to toggle between "not read yet" and "read". I'll also need a form to add new books to the library.
 
-**Link(s) to work**
+## Day 6: Saturday, February 15, 2025
 
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+I decided to take a break from my JavaScript course on weekends and read [Eloquent JavaScript](https://eloquentjavascript.net) by Marijn Haverbeke instead. I started with Part 2: Browser.
+
+## Day 7: Sunday, February 16, 2025
+
+I read more Eloquent JavaScript today.
+
+It would have been a better choice if I had taken a rest day today, along with some time for a weekly review. Trying to do a 100-day challenge without any rest days is not a good idea. I tried that before, and it didn't go well.
+
+## Day 8: Monday, February 17, 2025
+
+I did today what I should have done yesterday:
+
+I took a break from learning JavaScript, reflected on the past week, planned for the current week, and took a long walk to get some fresh air and sunshine before the next winter storm comes rolling in.
+
+## Day 9: Tuesday, February 18, 2025
+
+I started the lesson on creating an effective portfolio on the Getting Job Ready learning path by Frontend Mentor. Not that I'll be job ready any time soon, but there are some steps that I like to start early, while I'm still working on building my technical skills. I already have a [personal website](https://www.sabineemden.com/) that I built with a [blogging template](https://github.com/withastro/astro/tree/latest/examples/blog). I could turn it into a portfolio site, or I could start from scratch with a [portfolio template](https://github.com/withastro/astro/tree/latest/examples/portfolio).
+
+## Day 10: Wednesday, February 19, 2025
+
+I had a complete lack of motivation for coding today, so I picked the project I was most excited about: planning how to transform my personal website from a blog to a portfolio website.
