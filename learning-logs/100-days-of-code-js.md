@@ -49,3 +49,11 @@ I started the lesson on creating an effective portfolio on the Getting Job Ready
 ## Day 10: Wednesday, February 19, 2025
 
 I had a complete lack of motivation for coding today, so I picked the project I was most excited about: planning how to transform my personal website from a blog to a portfolio website.
+
+## Day 11: Thursday, February 20, 2025
+
+I finally got my learning tracker up to date, both the weekly reviews and the daily progress logs for my 100 Days of Code challenge.
+
+I updated the README files of seven GitHub repositories by using image compression for the screenshots. I was already in the habit of optimizing font files, and the screenshot images were often the biggest files in my projects.
+
+I even picked up my library project again and worked on the JavaScript code for displaying the books on the page.
