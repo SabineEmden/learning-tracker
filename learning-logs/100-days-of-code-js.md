@@ -57,3 +57,7 @@ I finally got my learning tracker up to date, both the weekly reviews and the da
 I updated the README files of seven GitHub repositories by using image compression for the screenshots. I was already in the habit of optimizing font files, and the screenshot images were often the biggest files in my projects.
 
 I even picked up my library project again and worked on the JavaScript code for displaying the books on the page.
+
+# Day 12: Friday, February 21, 2025
+
+Today wasn't quite as productive as yesterday, although I did make some progress on the library project for my JavaScript course. I moved the code for displaying the books on the page into functions (with each function only doing one specific thing), and I chose a design inspiration for colors and fonts.
