@@ -120,7 +120,7 @@ The current political situation both here in the United States, where I live, an
 
 ## Week 7: February 10, 2025 through February 16, 2025
 
-###
+### Recap
 
 I started the [100 Days of Code Challenge, JavaScript Edition](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/100-days-of-code-js.md).
 
@@ -143,3 +143,21 @@ There was lots of rain with temperatures just above freezing. The Greensboro Run
 ### Shout-outs
 
 [Kedasha Kerr](https://itsthatlady.dev/) has a great [GitHub repo](https://github.com/LadyKerr/profilereadme) with a template for a GitHub profile README and links to additional resources.
+
+## Week 8: February 17, 2025 through February 23, 2025
+
+### Recap
+
+I only worked on the JavaScript course for The Odin Project and Project: Library on two out of five days, and only for about 40 minutes on each day.
+
+### Highs
+
+I decided to take weekends off from learning JavaScript. I feel this is a good choice and necessary for developing a sustainable schedule.
+
+### Lows
+
+I'm still struggling with finding a sustainable balance between productivity and self-care.
+
+### Shout-outs
+
+Ein guter Verlag has very helpful resources on self-care and mindfulness on their [blog](https://einguterplan.de/blog/) (in German).
