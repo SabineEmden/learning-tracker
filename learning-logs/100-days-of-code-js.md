@@ -61,3 +61,19 @@ I even picked up my library project again and worked on the JavaScript code for 
 # Day 12: Friday, February 21, 2025
 
 Today wasn't quite as productive as yesterday, although I did make some progress on the library project for my JavaScript course. I moved the code for displaying the books on the page into functions (with each function only doing one specific thing), and I chose a design inspiration for colors and fonts.
+
+# Day 13: Saturday, February 22, 2025
+
+I decided to take the weekends off from learning JavaScript. I went to a yoga class, did some laundry, caught up with family members in Germany, and baked cookies.
+
+# Day 14: Sunday, February 23, 2025
+
+I didn't manage to reflect on the past week or plan for the coming week today.
+
+# Day 15: Monday, February 24, 2025
+
+I had a lot going on today, none of it was related to web development. I finally got my mail-in ballot for the German federal election. Unfortunately, election day was yesterday, and I didn't have a chance to vote.
+
+# Day 16: Tuesday, February 25, 2025
+
+I didn't sleep well last night and feel very tired.
