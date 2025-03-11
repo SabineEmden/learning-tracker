@@ -179,3 +179,21 @@ The lack of support by the United States for Ukraine that became apparent during
 ### Shout-outs
 
 [Krankies Coffee](https://krankiescoffee.com) in Winston-Salem, NC has excellent biscuits. My favorite is Krankies Classic with brined and fried chicken doused in Texas Pete and honey.
+
+## Week 10: March 3, 2025 through March 9, 2025
+
+### Recap
+
+I didn't spend any time at all working on learning web development. This week was a total loss.
+
+### Highs
+
+Spring is here. It's getting green, and I've seen the first blooming trees.
+
+### Lows
+
+I've reached the [valley of despair](https://beautifulmindswellness.org/emotional-stage-of-change/).
+
+### Shout-outs
+
+The bishop of my church published a blog post, [Ash on the Laundry](https://nclutheran.org/bishops_reflections/ash-on-the-laundry/). I find it deeply troubling.
