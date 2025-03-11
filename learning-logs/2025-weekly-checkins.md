@@ -161,3 +161,21 @@ I'm still struggling with finding a sustainable balance between productivity and
 ### Shout-outs
 
 Ein guter Verlag has very helpful resources on self-care and mindfulness on their [blog](https://einguterplan.de/blog/) (in German).
+
+## Week 9: February 24, 2025 through March 2, 2025
+
+### Recap
+
+I spent more time working on Project: Library in the JavaScript Course for The Odin Project than last week, but still much less than I had planned.
+
+### Highs
+
+I met with Anne for coffee. Anne is a software developer and a follow member of Winston Women in STEM.
+
+### Lows
+
+The lack of support by the United States for Ukraine that became apparent during Ukrainian President Volodymyr Zelenskyy's visit to the White House on Friday worries me deeply. It upends the established geopolitical order in Europe and may have serious consequences for central Europe, including my home country.
+
+### Shout-outs
+
+[Krankies Coffee](https://krankiescoffee.com) in Winston-Salem, NC has excellent biscuits. My favorite is Krankies Classic with brined and fried chicken doused in Texas Pete and honey.
