@@ -46,7 +46,7 @@ I'm following the [Full Stack JavaScript](https://www.theodinproject.com/paths/f
 #### [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
 - [x] Introduction
-- [ ] Prerequisites
+- [x] Prerequisites
 - [ ] Git Basics
 - [ ] HTML Foundations
   - [x] Project: [Recipes](https://github.com/SabineEmden/odin-recipes)
