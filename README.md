@@ -4,8 +4,8 @@ Tracking my technical skills, personal projects, coursework, and coding challeng
 
 **Learning logs:**
 
-- [2025 Weekly Check-ins](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2025-weekly-checkins.md)
-- [100 Days of Code, JavaScript Edition](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/100-days-of-code-js.md)
+- [2026 Weekly Check-ins](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2026-weekly-checkins.md)
+- [100 Days of Code - February 2026](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/100-days-of-code-Feb2026.md)
 
 ## Technical Skills
 
@@ -46,31 +46,31 @@ I'm following the [Full Stack JavaScript](https://www.theodinproject.com/paths/f
 #### [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
 - [x] Introduction
-- [x] Prerequisites
-- [x] Git Basics
-- [x] HTML Foundations
+- [ ] Prerequisites
+- [ ] Git Basics
+- [ ] HTML Foundations
   - [x] Project: [Recipes](https://github.com/SabineEmden/odin-recipes)
-- [x] CSS Foundations
-- [x] Flexbox
+- [ ] CSS Foundations
+- [ ] Flexbox
   - [x] Project: [Landing Page](https://github.com/SabineEmden/odin-landing-page)
-- [x] JavaScript Basics
+- [ ] JavaScript Basics
   - [x] Project: [Rock Paper Scissors](https://github.com/SabineEmden/rock-paper-scissors)
   - [x] Project: [Etch-a-Sketch](https://github.com/SabineEmden/etch-a-sketch)
   - [x] Project: [Calculator](https://github.com/SabineEmden/calculator)
-- [x] Conclusion
+- [ ] Conclusion
 
 #### [Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
 
-- [x] Intermediate HTML Concepts
-- [x] Intermediate CSS Concepts
-- [x] Forms
+- [ ] Intermediate HTML Concepts
+- [ ] Intermediate CSS Concepts
+- [ ] Forms
   - [x] Project: [Sign-up Form](https://github.com/SabineEmden/odin-sign-up-form)
-- [x] Grid
+- [ ] Grid
   - [x] Project: [Admin Dashboard](https://github.com/SabineEmden/odin-admin-dashboard)
 
 #### [JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
 
-- [x] Introduction
+- [ ] Introduction
 - [ ] Organizing Your JavaScript Code
   - [ ] Project: [Library](https://github.com/SabineEmden/odin-library)
   - [ ] Project: Tic Tac Toe
