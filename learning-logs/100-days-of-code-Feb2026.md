@@ -19,3 +19,13 @@ Worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-
 - Structured content with HTML, added icons and links.
 - Set up CSS stylesheet, added CSS reset and CSS variables for colors.
 - Next is typography.
+
+## Day 2: Tuesday, February 3, 2026
+
+Worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component).
+
+- Downloaded font files from Google Fonts.
+- Subset fonts to Basic Latin and converted files from TTF to WOFF2.
+- Added font files to the project.
+
+This took much longer than I had planned. I had taken a deep dive into web sustainability best practices for typography for my Frontend Mentor [QR code component solution](https://github.com/SabineEmden/qr-code-component) but needed a refresher. Fortunately, I found all the information I needed in the READMEs for my previous projects.
