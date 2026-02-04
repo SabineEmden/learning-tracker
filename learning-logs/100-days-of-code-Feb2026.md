@@ -29,3 +29,13 @@ Worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-
 - Added font files to the project.
 
 This took much longer than I had planned. I had taken a deep dive into web sustainability best practices for typography for my Frontend Mentor [QR code component solution](https://github.com/SabineEmden/qr-code-component) but needed a refresher. Fortunately, I found all the information I needed in the READMEs for my previous projects.
+
+## Day 3: Wednesday, February 4, 2026
+
+Worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component).
+
+- Added font-face declarations.
+- Centered card component on page.
+- Styled attribution in page footer.
+- Styles card component for mobile view.
+- Next is styling buttons.
