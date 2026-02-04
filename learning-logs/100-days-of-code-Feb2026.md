@@ -37,5 +37,5 @@ Worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-
 - Added font-face declarations.
 - Centered card component on page.
 - Styled attribution in page footer.
-- Styles card component for mobile view.
+- Styled card component for mobile view.
 - Next is styling buttons.
