@@ -13,7 +13,7 @@ My goal for this 100-Days-of-Code challenge is to build projects and gain coding
 
 ## Day 1: Monday, February 2, 2026
 
-Worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component).
+I worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component).
 
 - Set up GitHub repository and deployed project on GitHub Pages.
 - Structured content with HTML, added icons and links.
@@ -22,7 +22,7 @@ Worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-
 
 ## Day 2: Tuesday, February 3, 2026
 
-Worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component).
+I worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component).
 
 - Downloaded font files from Google Fonts.
 - Subset fonts to Basic Latin and converted files from TTF to WOFF2.
@@ -32,10 +32,19 @@ This took much longer than I had planned. I had taken a deep dive into web susta
 
 ## Day 3: Wednesday, February 4, 2026
 
-Worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component).
+I worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component).
 
 - Added font-face declarations.
 - Centered card component on page.
 - Styled attribution in page footer.
 - Styled card component for mobile view.
 - Next is styling buttons.
+
+## Day 4: Thursday, February, 5, 2026
+
+I worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component).
+
+- Styled buttons in default and hover states.
+- Added rounded corners to card.
+- Added tablet and desktop designs with breakpoints.
+- Next are HTML validation and accessibility testing.
