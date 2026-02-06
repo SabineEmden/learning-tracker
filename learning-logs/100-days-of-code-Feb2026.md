@@ -40,7 +40,7 @@ I worked on [3-column preview card component](https://github.com/SabineEmden/fm-
 - Styled card component for mobile view.
 - Next is styling buttons.
 
-## Day 4: Thursday, February, 5, 2026
+## Day 4: Thursday, February 5, 2026
 
 I worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component).
 
@@ -48,3 +48,13 @@ I worked on [3-column preview card component](https://github.com/SabineEmden/fm-
 - Added rounded corners to card.
 - Added tablet and desktop designs with breakpoints.
 - Next are HTML validation and accessibility testing.
+
+## Day 5: Friday, February 6, 2026
+
+I worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component).
+
+- Added flexbox to card sections to align buttons.
+- Tested larger browser font sizes and zoom for web accessibility.
+- Checked HTML code with HTML validator.
+- Wrote custom README.
+- Next is submitting my solution on the Frontend Mentor platform.
