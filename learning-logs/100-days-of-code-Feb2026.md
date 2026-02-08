@@ -58,3 +58,12 @@ I worked on [3-column preview card component](https://github.com/SabineEmden/fm-
 - Checked HTML code with HTML validator.
 - Wrote custom README.
 - Next is submitting my solution on the Frontend Mentor platform.
+
+## Day 6: Saturday, February 7, 2026
+
+I worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component).
+
+- Submitted solution to Frontend Mentor.
+- Fixed issues flagged in accessibility report, HTML report, and CSS report.
+
+Frontend Mentor provides [AI-enhanced solution reports](https://www.frontendmentor.io/articles/guaranteed-solution-insights-with-ai-enhanced-reports) to PRO subscribers. This was my first time working with these reports. I found them very helpful. They caught a number of issues in my code, and flagged a few more that I dismissed.
