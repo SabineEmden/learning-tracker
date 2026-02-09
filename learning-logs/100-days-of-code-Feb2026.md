@@ -67,3 +67,11 @@ I worked on [3-column preview card component](https://github.com/SabineEmden/fm-
 - Fixed issues flagged in accessibility report, HTML report, and CSS report.
 
 Frontend Mentor provides [AI-enhanced solution reports](https://www.frontendmentor.io/articles/guaranteed-solution-insights-with-ai-enhanced-reports) to PRO subscribers. This was my first time working with these reports. I found them very helpful. They caught a number of issues in my code, and flagged a few more that I dismissed.
+
+## Day 7: Sunday, February 8, 2026
+
+I worked on [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component).
+
+- Started the challenge and downloaded starter files.
+- Set up GitHub repository and deployed project on GitHub Pages.
+- Structured content with HTML.
