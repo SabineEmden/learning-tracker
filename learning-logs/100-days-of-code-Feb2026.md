@@ -75,3 +75,19 @@ I worked on [Single price grid component](https://github.com/SabineEmden/fm-sing
 - Started the challenge and downloaded starter files.
 - Set up GitHub repository and deployed project on GitHub Pages.
 - Structured content with HTML.
+
+## Day 8: Monday, February 9, 2026
+
+I worked on [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component).
+
+- Wrote code review for a solution submitted by another Frontend Mentor community member.
+
+Reading and reviewing code written by other developers is an important skill. But I'm still undecided whether I want to count the time I spent writing code reviews towards this challenge. Writin code reviews is more a communications skills than a coding skill.
+
+I also worked on [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component).
+
+- Set up CSS style sheet, added CSS reset and custom properties for colors.
+- - Downloaded font files from Google Fonts.
+- Subset fonts to Basic Latin and converted files from TTF to WOFF2.
+- Added font files to the project.
+- Added font-face declarations and typographic styles.
