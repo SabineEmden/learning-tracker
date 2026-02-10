@@ -91,3 +91,13 @@ I also worked on [Single price grid component](https://github.com/SabineEmden/fm
 - Subset fonts to Basic Latin and converted files from TTF to WOFF2.
 - Added font files to the project.
 - Added font-face declarations and typographic styles.
+
+## Day 9: Tuesday, February 10, 2026
+
+I worked on [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component).
+
+- Center component on page
+- Style grid container for mobile layout
+- Add padding and margins to grid sections and content
+
+This is a weird design. I don't agree with some of the choices the designer made. For example, the color contrasts don't meet the web accessibility standards.
