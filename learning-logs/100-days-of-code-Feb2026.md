@@ -101,3 +101,14 @@ I worked on [Single price grid component](https://github.com/SabineEmden/fm-sing
 - Add padding and margins to grid sections and content
 
 This is a weird design. I don't agree with some of the choices the designer made. For example, the color contrasts don't meet the web accessibility standards.
+
+# Day 10: Wednesday, February 11, 2026
+
+I worked on [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component).
+
+- Added hover style to button
+- Added CSS grid for mobile and desktop layouts
+- Added visually hidden <h1> heading to page
+- Styled attribution in page footer
+- Tested browser zoom and large browser font size
+- Next is writing custom README
