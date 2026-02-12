@@ -167,7 +167,7 @@ I'm using the learning paths on [Frontend Mentor](https://www.frontendmentor.io/
 #### Other Frontend Mentor Challenges
 
 - [x] Challenge: [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component)
-- [ ] Challenge: [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component)
+- [x] Challenge: [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component)
 
 ## Acknowledgements
 

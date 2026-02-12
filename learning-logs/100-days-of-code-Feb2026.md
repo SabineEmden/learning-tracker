@@ -102,7 +102,7 @@ I worked on [Single price grid component](https://github.com/SabineEmden/fm-sing
 
 This is a weird design. I don't agree with some of the choices the designer made. For example, the color contrasts don't meet the web accessibility standards.
 
-# Day 10: Wednesday, February 11, 2026
+## Day 10: Wednesday, February 11, 2026
 
 I worked on [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component).
 
@@ -112,3 +112,14 @@ I worked on [Single price grid component](https://github.com/SabineEmden/fm-sing
 - Styled attribution in page footer
 - Tested browser zoom and large browser font size
 - Next is writing custom README
+
+## Day 11: Wednesday, February 12, 2026
+
+I worked on [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component).
+
+- Reviewed my code
+- Wrote custom README
+- Submitted my solution to Frontend Mentor
+- Worked through several rounds of AI-enhanced solution reports.
+
+The accessibility reports took issue with the placeholder link and make several recommendations to improve its accessibility. Consecutive reports contradicted each other on whether the link should be focusable by keyboard or not. I felt like I was running in circles and need some non-AI feedback on this issue. I plan to post it on the Frontend Mentor Discord server tomorrow.
