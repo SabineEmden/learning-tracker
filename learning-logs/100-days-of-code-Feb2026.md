@@ -113,7 +113,7 @@ I worked on [Single price grid component](https://github.com/SabineEmden/fm-sing
 - Tested browser zoom and large browser font size
 - Next is writing custom README
 
-## Day 11: Wednesday, February 12, 2026
+## Day 11: Thursday, February 12, 2026
 
 I worked on [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component).
 
@@ -123,3 +123,18 @@ I worked on [Single price grid component](https://github.com/SabineEmden/fm-sing
 - Worked through several rounds of AI-enhanced solution reports.
 
 The accessibility reports took issue with the placeholder link and make several recommendations to improve its accessibility. Consecutive reports contradicted each other on whether the link should be focusable by keyboard or not. I felt like I was running in circles and need some non-AI feedback on this issue. I plan to post it on the Frontend Mentor Discord server tomorrow.
+
+## Day 12: Friday, February 13, 2026
+
+I worked on [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component).
+
+- Asked on the Frontend Mentor Discord server for help with the recommendations in the accessibility report regarding the link.
+- Learned my initial solution was correct, and I can disregard the issue.
+- Changed my code back to my initial solution and generated new reports.
+
+The accessibility report now says "No accessibility issues found". There are still two HTML and ten CSS issues. But I know for all of them why I'm disregarding them. The only weird thing now is that the CSS report recommends I change a line of code that is not even in my solution.
+
+I started the [order summary card](https://github.com/SabineEmden/fm-order-summary-component) challenge.
+
+- Downloaded starter files.
+- Set up GitHub repository and deployed project on GitHub Pages.

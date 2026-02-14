@@ -169,6 +169,8 @@ I'm using the learning paths on [Frontend Mentor](https://www.frontendmentor.io/
 - [x] Challenge: [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component)
 - [x] Challenge: [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component)
 
+- [ ] Challenge: [Order summary card](https://github.com/SabineEmden/fm-order-summary-component)
+
 ## Acknowledgements
 
 This project is inspired by Syk Houdeib's [Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker), by Alexander Kallaway's [#100DaysOfCode Challenge](https://github.com/kallaway/100-days-of-code), and by Shovan Chatterjee's [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path).
