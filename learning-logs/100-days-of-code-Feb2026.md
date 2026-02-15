@@ -138,3 +138,13 @@ I started the [order summary card](https://github.com/SabineEmden/fm-order-summa
 
 - Downloaded starter files.
 - Set up GitHub repository and deployed project on GitHub Pages.
+
+## Day 13: Saturday, February 14, 2026
+
+I worked on the [order summary card](https://github.com/SabineEmden/fm-order-summary-component) challenge.
+
+- Read article [A Web Developer's Guide to Buttons vs Links](https://www.a11y-collective.com/blog/button-vs-link/) by A11Y Collective.
+- Looked through Figma design file to plan my approach.
+- Structured content with HTML.
+- Added images to component.
+- Added CSS style sheet.
