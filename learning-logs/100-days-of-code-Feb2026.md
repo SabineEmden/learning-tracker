@@ -148,3 +148,10 @@ I worked on the [order summary card](https://github.com/SabineEmden/fm-order-sum
 - Structured content with HTML.
 - Added images to component.
 - Added CSS style sheet.
+
+## Day 14: Sunday, February 15, 2025
+
+I worked on the [order summary card](https://github.com/SabineEmden/fm-order-summary-component) challenge.
+
+- Added Josh Comeau's CSS Reset.
+- Declared CSS custom properties for colors, typography, and spacing.
