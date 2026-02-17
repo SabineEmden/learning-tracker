@@ -165,3 +165,19 @@ I worked on the [order summary card](https://github.com/SabineEmden/fm-order-sum
 - Added font face declaration.
 - Set typographic styles for body copy on mobile view.
 - Inspected typography in Figma design file.
+
+## Day 16: Tuesday, February 17, 2026
+
+I worked on the [order summary card](https://github.com/SabineEmden/fm-order-summary-component) challenge.
+
+- Centered card component on page.
+- Styled attribution in page footer.
+- Styled cad component for mobile view.
+- Next is:
+  - Style hover states of interactive elements,
+  - Add breakpoint for tablet and desktop layout,
+  - Add background images to page,
+  - Edit syntax for hsl() color values,
+  - Test accessibility,
+  - Write custom README,
+  - Submit solution.
