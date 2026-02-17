@@ -149,9 +149,19 @@ I worked on the [order summary card](https://github.com/SabineEmden/fm-order-sum
 - Added images to component.
 - Added CSS style sheet.
 
-## Day 14: Sunday, February 15, 2025
+## Day 14: Sunday, February 15, 2026
 
 I worked on the [order summary card](https://github.com/SabineEmden/fm-order-summary-component) challenge.
 
 - Added Josh Comeau's CSS Reset.
 - Declared CSS custom properties for colors, typography, and spacing.
+
+## Day 15: Monday, February 16, 2026
+
+I worked on the [order summary card](https://github.com/SabineEmden/fm-order-summary-component) challenge.
+
+- Downloaded font files.
+- Converted font files for variable font from TTF to WOFF2.
+- Added font face declaration.
+- Set typographic styles for body copy on mobile view.
+- Inspected typography in Figma design file.
