@@ -177,7 +177,15 @@ I worked on the [order summary card](https://github.com/SabineEmden/fm-order-sum
   - Style hover states of interactive elements,
   - Add breakpoint for tablet and desktop layout,
   - Add background images to page,
+  - Add box shadow to card component,
   - Edit syntax for hsl() color values,
   - Test accessibility,
   - Write custom README,
   - Submit solution.
+
+## Day 17: Wednesday, February 18, 2026
+
+I worked on the [order summary card](https://github.com/SabineEmden/fm-order-summary-component) challenge.
+
+- Added hover states to interactive elements.
+- Got stuck on SVG background image.
