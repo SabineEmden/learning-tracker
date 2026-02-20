@@ -202,3 +202,14 @@ I worked on the [order summary card](https://github.com/SabineEmden/fm-order-sum
 - Edited syntax for hsl() color values.
 
 I got unstuck after I realized the SVG background images both had a hight and width and therefore should behave like any regular jpeg or png image.
+
+## Day 19: Friday, February 20, 2026
+
+I completed the [order summary card](https://github.com/SabineEmden/fm-order-summary-component) challenge.
+
+- Added visually hidden h1 heading to page.
+- Ran code through HTML validator.
+- Wrote custom README.
+- Cleaned up files.
+- Submitted solution on Frontend Mentor platform.
+- Reviewed solution reports and improved my solution.
