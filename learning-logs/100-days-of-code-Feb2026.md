@@ -188,4 +188,17 @@ I worked on the [order summary card](https://github.com/SabineEmden/fm-order-sum
 I worked on the [order summary card](https://github.com/SabineEmden/fm-order-summary-component) challenge.
 
 - Added hover states to interactive elements.
-- Got stuck on SVG background image.
+- Got stuck on SVG background image behind card.
+
+## Day 18: Thursday, February 19, 2026
+
+I worked on the [order summary card](https://github.com/SabineEmden/fm-order-summary-component) challenge.
+
+- Added shadow to card component.
+- Added background image for mobile design.
+- Added desktop design with media breakpoint.
+- Tested accessibility for larger browser font size and zoom.
+- Improved responsiveness of hero illustration and plan section.
+- Edited syntax for hsl() color values.
+
+I got unstuck after I realized the SVG background images both had a hight and width and therefore should behave like any regular jpeg or png image.
