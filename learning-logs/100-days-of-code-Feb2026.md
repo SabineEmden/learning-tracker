@@ -213,3 +213,21 @@ I completed the [order summary card](https://github.com/SabineEmden/fm-order-sum
 - Cleaned up files.
 - Submitted solution on Frontend Mentor platform.
 - Reviewed solution reports and improved my solution.
+
+## Day 20: Saturday, February 21, 2026
+
+I started the [stats preview card component](https://github.com/SabineEmden/fm-stats-preview-card-component) challenge.
+
+- Downloaded the starter files.
+- Initiated a local git repository.
+- Shared repository on GitHub.
+- Deployed to GitHub Pages.
+- Structured pre-written content with HTML.
+- Added CSS style sheet.
+- Added Josh Comeau's CSS Reset to style sheet.
+- Added styling for `.sr-only` class to visually hide top-level page header.
+- Declared global CSS custom properties for colors.
+- Added font files.
+- Added `@font-face` declarations.
+- Set colors and typography for body copy.
+- Styled attribution in page footer.
