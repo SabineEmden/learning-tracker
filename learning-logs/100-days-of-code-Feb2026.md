@@ -108,7 +108,7 @@ I worked on [Single price grid component](https://github.com/SabineEmden/fm-sing
 
 - Added hover style to button
 - Added CSS grid for mobile and desktop layouts
-- Added visually hidden <h1> heading to page
+- Added visually hidden top-level heading to page
 - Styled attribution in page footer
 - Tested browser zoom and large browser font size
 - Next is writing custom README
@@ -173,15 +173,6 @@ I worked on the [order summary card](https://github.com/SabineEmden/fm-order-sum
 - Centered card component on page.
 - Styled attribution in page footer.
 - Styled cad component for mobile view.
-- Next is:
-  - Style hover states of interactive elements,
-  - Add breakpoint for tablet and desktop layout,
-  - Add background images to page,
-  - Add box shadow to card component,
-  - Edit syntax for hsl() color values,
-  - Test accessibility,
-  - Write custom README,
-  - Submit solution.
 
 ## Day 17: Wednesday, February 18, 2026
 
@@ -231,3 +222,12 @@ I started the [stats preview card component](https://github.com/SabineEmden/fm-s
 - Added `@font-face` declarations.
 - Set colors and typography for body copy.
 - Styled attribution in page footer.
+
+## Day 21: Sunday, February 22, 2026
+
+I worked on the [stats preview card component](https://github.com/SabineEmden/fm-stats-preview-card-component) challenge.
+
+- Centered card component on page.
+- Sized card component for mobile and tablet design.
+- Set typographic styles for card.
+- Set layout for text on card.
