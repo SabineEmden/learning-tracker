@@ -231,3 +231,11 @@ I worked on the [stats preview card component](https://github.com/SabineEmden/fm
 - Sized card component for mobile and tablet design.
 - Set typographic styles for card.
 - Set layout for text on card.
+
+## Day 22: Monday, February 23, 2026
+
+I worked on the [stats preview card component](https://github.com/SabineEmden/fm-stats-preview-card-component) challenge.
+
+- Add purple overlay to image.
+
+It took me a while to figure out whether to use an `<img>` element or a background image, how to add the overlay and make it look as close to the design as possible.
