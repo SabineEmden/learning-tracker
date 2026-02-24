@@ -239,3 +239,11 @@ I worked on the [stats preview card component](https://github.com/SabineEmden/fm
 - Add purple overlay to image.
 
 It took me a while to figure out whether to use an `<img>` element or a background image, how to add the overlay and make it look as close to the design as possible.
+
+## Day 23: Tuesday, February 24, 2026
+
+I worked on the [stats preview card component](https://github.com/SabineEmden/fm-stats-preview-card-component) challenge.
+
+- Adjusted layout of information section for tablet layout.
+- Added `<picture>` element to swap image for tablet and desktop layout.
+- Set up CSS grid to adjust layout for desktop layout.
