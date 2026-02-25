@@ -247,3 +247,13 @@ I worked on the [stats preview card component](https://github.com/SabineEmden/fm
 - Adjusted layout of information section for tablet layout.
 - Added `<picture>` element to swap image for tablet and desktop layout.
 - Set up CSS grid to adjust layout for desktop layout.
+
+## Day 24: Wednesday, February 25, 2026
+
+I completed the [stats preview card component](https://github.com/SabineEmden/fm-stats-preview-card-component) challenge.
+
+- Replaced overlay on image with purple background on parent element.
+- Customized README.
+- Submitted solution.
+- Skimmed solution reports.
+- Posted request for feeback on Frontend Mentor Discord.
