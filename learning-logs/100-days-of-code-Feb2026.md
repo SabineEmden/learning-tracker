@@ -256,4 +256,4 @@ I completed the [stats preview card component](https://github.com/SabineEmden/fm
 - Customized README.
 - Submitted solution.
 - Skimmed solution reports.
-- Posted request for feeback on Frontend Mentor Discord.
+- Posted request for feedback on Frontend Mentor Discord.
