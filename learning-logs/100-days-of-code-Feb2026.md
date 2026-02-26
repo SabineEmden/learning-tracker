@@ -257,3 +257,11 @@ I completed the [stats preview card component](https://github.com/SabineEmden/fm
 - Submitted solution.
 - Skimmed solution reports.
 - Posted request for feedback on Frontend Mentor Discord.
+
+## Day 25: Thursday, February 26, 2026
+
+I picked up the [Product preview card component](https://github.com/SabineEmden/fm-product-preview-card-component) challenge again.
+
+- Looked through the HTML and CSS I had already written.
+- Styled the text part of the product card for mobile.
+- Styled the hover state of the button.
