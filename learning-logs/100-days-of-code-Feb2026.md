@@ -265,3 +265,11 @@ I picked up the [Product preview card component](https://github.com/SabineEmden/
 - Looked through the HTML and CSS I had already written.
 - Styled the text part of the product card for mobile.
 - Styled the hover state of the button.
+
+## Day 26: Friday, February 27, 2026
+
+I worked on the [Product preview card component](https://github.com/SabineEmden/fm-product-preview-card-component) challenge.
+
+- Adjusted image for larger browser font size.
+- Added desktop layout.
+- Validated HTML and fixed error.
