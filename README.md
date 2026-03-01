@@ -159,7 +159,7 @@ I'm using the learning paths on [Frontend Mentor](https://www.frontendmentor.io/
 
 #### [Building responsive layouts](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD)
 
-- [ ] Challenge: [Product preview card component](https://github.com/SabineEmden/fm-product-preview-card-component)
+- [x] Challenge: [Product preview card component](https://github.com/SabineEmden/fm-product-preview-card-component)
 - [ ] Challenge: Four card feature section
 - [ ] Challenge: Testimonial grid section
 - [ ] Challenge: Meeting landing page

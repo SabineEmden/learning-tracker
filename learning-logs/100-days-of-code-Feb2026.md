@@ -273,3 +273,15 @@ I worked on the [Product preview card component](https://github.com/SabineEmden/
 - Adjusted image for larger browser font size.
 - Added desktop layout.
 - Validated HTML and fixed error.
+
+## Day 27: Saturday, February 28, 2026
+
+I completed the [Product preview card component](https://github.com/SabineEmden/fm-product-preview-card-component) challenge.
+
+- Customized README
+- Submitted solution.
+- Reviewed solution reports.
+- Fix error: Added required type attribute to button element.
+- Wrote code review for a solution submitted by another Frontend Mentor member.
+
+I completed the challenge as part of the Frontend Mentor learning path "[Building responsive layouts](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD)". On the learning paths, a challenge is only marked as completed after I have submitted a peer review.
