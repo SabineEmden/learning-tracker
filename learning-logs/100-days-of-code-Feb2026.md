@@ -285,3 +285,11 @@ I completed the [Product preview card component](https://github.com/SabineEmden/
 - Wrote code review for a solution submitted by another Frontend Mentor member.
 
 I completed the challenge as part of the Frontend Mentor learning path "[Building responsive layouts](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD)". On the learning paths, a challenge is only marked as completed after I have submitted a peer review.
+
+## Day 28: Sunday, March 1, 2026
+
+I started the [Four card feature section](https://github.com/SabineEmden/fm-four-card-feature-section) challenge.
+
+- Created GitHub repository.
+- Deployed to GitHub Pages.
+- Structured content with HTML.
