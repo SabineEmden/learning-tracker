@@ -345,3 +345,13 @@ I completed the [Four card feature section](https://github.com/SabineEmden/fm-fo
 - Posted question about best practice for `rem` or `px` for `padding` on Discord.
 - Read [Frontend Mentor guide](https://www.frontendmentor.io/guides/solution-reports-overview) on solution reports.
 - Reviewed solution submitted by another community member.
+
+## Day 35: Sunday, March 8, 2026
+
+I started the [Testimonial grid section](https://github.com/SabineEmden/fm-testimonials-grit-section) challenge.
+
+- Downloaded starter files.
+- Initialized project as a public repo on GitHub.
+- Deployed project to GitHub Pages.
+- Looked through the designs to plan my approach.
+- Structured content with HTML.
