@@ -365,3 +365,12 @@ I worked on the [Testimonial grid section](https://github.com/SabineEmden/fm-tes
 - Added fonts.
 - Added general styles and layout.
 - Styled attribution in page footer.
+
+## Day 37: Tuesday, March 10, 2026
+
+I worked on the [Testimonial grid section](https://github.com/SabineEmden/fm-testimonials-grit-section) challenge.
+
+- Laid out the grid for the mobile design.
+- Styled the testimonial cards.
+
+I made some minor changes to the colors where the design in the Figma file used colors that were not part of the style guide. If this was a real (work) project, I would have tried to speak to the designer to confirm.
