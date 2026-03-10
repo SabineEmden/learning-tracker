@@ -355,3 +355,13 @@ I started the [Testimonial grid section](https://github.com/SabineEmden/fm-testi
 - Deployed project to GitHub Pages.
 - Looked through the designs to plan my approach.
 - Structured content with HTML.
+
+## Day 36: Monday, March 9, 2026
+
+I worked on the [Testimonial grid section](https://github.com/SabineEmden/fm-testimonials-grit-section) challenge.
+
+- Added style sheet and CSS reset.
+- Declared custom properties for colors.
+- Added fonts.
+- Added general styles and layout.
+- Styled attribution in page footer.
