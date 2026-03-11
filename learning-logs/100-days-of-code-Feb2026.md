@@ -374,3 +374,12 @@ I worked on the [Testimonial grid section](https://github.com/SabineEmden/fm-tes
 - Styled the testimonial cards.
 
 I made some minor changes to the colors where the design in the Figma file used colors that were not part of the style guide. If this was a real (work) project, I would have tried to speak to the designer to confirm.
+
+## Day 38: Wednesday, March 11, 2026
+
+I worked on the [Testimonial grid section](https://github.com/SabineEmden/fm-testimonials-grit-section) challenge.
+
+- Laid out grid for tablet design.
+- Laid out grid for desktop design.
+- Added background image for tablet and desktop designs.
+- Removed unused CSS class.
