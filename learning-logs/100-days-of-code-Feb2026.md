@@ -383,3 +383,14 @@ I worked on the [Testimonial grid section](https://github.com/SabineEmden/fm-tes
 - Laid out grid for desktop design.
 - Added background image for tablet and desktop designs.
 - Removed unused CSS class.
+
+## Day 39: Thursday, March 12, 2026
+
+I completed the [Testimonial grid section](https://github.com/SabineEmden/fm-testimonials-grit-section) challenge.
+
+- Customizes the README.
+- Submitted my solution.
+- Reviewed the reports and improved my solution.
+- Wrote a code review.
+
+The person whose solution I was supposed to review didn't deploy their project. They also hadn't deployed any of their other solutions to Frontend Mentor challenges. I wonder why they did this.
