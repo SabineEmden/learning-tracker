@@ -394,3 +394,13 @@ I completed the [Testimonial grid section](https://github.com/SabineEmden/fm-tes
 - Wrote a code review.
 
 The person whose solution I was supposed to review didn't deploy their project. They also hadn't deployed any of their other solutions to Frontend Mentor challenges. I wonder why they did this.
+
+## Day 40: Friday, March 13,2026
+
+I started the [Meet landing page](https://github.com/SabineEmden/fm-meet-landing-page) challenge.
+
+- Downloaded starter files.
+- Reorganized project files.
+- Set up public repo on GitHub.
+- Deployed project to GitHub Pages.
+- Customized README file.

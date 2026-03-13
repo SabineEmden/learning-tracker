@@ -162,7 +162,7 @@ I'm using the learning paths on [Frontend Mentor](https://www.frontendmentor.io/
 - [x] Challenge: [Product preview card component](https://github.com/SabineEmden/fm-product-preview-card-component)
 - [x] Challenge: [Four card feature section](https://github.com/SabineEmden/fm-four-card-feature-section)
 - [x] Challenge: [Testimonial grid section](https://github.com/SabineEmden/fm-testimonials-grit-section)
-- [ ] Challenge: Meeting landing page
+- [ ] Challenge: [Meet landing page](https://github.com/SabineEmden/fm-meet-landing-page)
 
 #### Other Frontend Mentor Challenges
 
