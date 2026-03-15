@@ -404,3 +404,11 @@ I started the [Meet landing page](https://github.com/SabineEmden/fm-meet-landing
 - Set up public repo on GitHub.
 - Deployed project to GitHub Pages.
 - Customized README file.
+- Looked through Figma design file.
+
+## Day 41: Saturday, March 14, 2026
+
+I worked on the [Meet landing page](https://github.com/SabineEmden/fm-meet-landing-page) challenge.
+
+- Structured content with HTML markup.
+- Added footer with attribution to page.
