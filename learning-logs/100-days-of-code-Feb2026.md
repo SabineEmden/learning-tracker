@@ -421,3 +421,12 @@ I worked on the [Meet landing page](https://github.com/SabineEmden/fm-meet-landi
 - Added style sheet with CSS reset.
 - Declared custom properties for colors and spacing.
 - Added font files and font face declarations.
+
+## Day 43: Monday, March 16, 2026
+
+I worked on the [Meet landing page](https://github.com/SabineEmden/fm-meet-landing-page) challenge.
+
+- Added general styles and layout.
+- Positioned logo in page header.
+- Now working on styling buttons.
+- Need to add fluid typography later.
