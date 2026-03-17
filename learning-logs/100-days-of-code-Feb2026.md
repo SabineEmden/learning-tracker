@@ -430,3 +430,11 @@ I worked on the [Meet landing page](https://github.com/SabineEmden/fm-meet-landi
 - Positioned logo in page header.
 - Now working on styling buttons.
 - Need to add fluid typography later.
+
+## Day 44: Tuesday, March 17, 2026
+
+I worked on the [Meet landing page](https://github.com/SabineEmden/fm-meet-landing-page) challenge.
+
+- Styled button component.
+- Added images to hero section.
+- Positioned hero image in mobile layout.
