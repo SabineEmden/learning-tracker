@@ -453,3 +453,10 @@ I worked on the [Meet landing page](https://github.com/SabineEmden/fm-meet-landi
 - Added fluid typography for main page heading.
 - Adjusted padding and margin of hero section.
 - Adapted hero section for tablet view.
+
+## Day 47: Friday, March 20, 2026
+
+I worked on the [Meet landing page](https://github.com/SabineEmden/fm-meet-landing-page) challenge.
+
+- Adapted hero section for desktop view.
+- Added layout for image gallery in mobile view.
