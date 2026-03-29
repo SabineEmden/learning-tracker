@@ -178,7 +178,7 @@ I'm using the learning paths on [Frontend Mentor](https://www.frontendmentor.io/
 - [x] Challenge: [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component)
 - [x] Challenge: [Order summary card](https://github.com/SabineEmden/fm-order-summary-component)
 - [x] Challenge: [Stats preview card component](https://github.com/SabineEmden/fm-stats-preview-card-component)
-- [ ] Challenge: Tech book club landing page
+- [ ] Challenge: [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page)
 
 ## Acknowledgements
 

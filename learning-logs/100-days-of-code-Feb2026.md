@@ -532,3 +532,13 @@ I completed the [Meet landing page](https://github.com/SabineEmden/fm-meet-landi
 - Changed color overlay over background image.
 
 This completes the Frontend Mentor learning path [Building responsive layouts](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD).
+
+## Day 56: Sunday, March 29, 2026
+
+I started the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Downloaded starter files and Figma design file.
+- Initialized GitHub repository.
+- Deployed project on GitHub Pages.
+- Looked through the designs to plan structure of page.
+- Structured page header and hero section with HTML.
