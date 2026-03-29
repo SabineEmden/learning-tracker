@@ -4,7 +4,6 @@ Tracking my technical skills, personal projects, coursework, and coding challeng
 
 **Learning logs:**
 
-- [2026 Weekly Check-ins](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/2026-weekly-checkins.md)
 - [100 Days of Code - February 2026](https://github.com/SabineEmden/learning-tracker/blob/master/learning-logs/100-days-of-code-Feb2026.md)
 
 ## Technical Skills
@@ -162,7 +161,16 @@ I'm using the learning paths on [Frontend Mentor](https://www.frontendmentor.io/
 - [x] Challenge: [Product preview card component](https://github.com/SabineEmden/fm-product-preview-card-component)
 - [x] Challenge: [Four card feature section](https://github.com/SabineEmden/fm-four-card-feature-section)
 - [x] Challenge: [Testimonial grid section](https://github.com/SabineEmden/fm-testimonials-grit-section)
-- [ ] Challenge: [Meet landing page](https://github.com/SabineEmden/fm-meet-landing-page)
+- [x] Challenge: [Meet landing page](https://github.com/SabineEmden/fm-meet-landing-page)
+
+#### [JavaScript fundamentals](https://www.frontendmentor.io/learning-paths/javascript-fundamentals-oR7g6-mTZ-)
+
+- [ ] Challenge: Article preview component
+- [ ] Challenge: Newsletter sing-up form with success message
+- [ ] Challenge: Time tracking dashboard
+- [ ] Challenge: Tip calculator app
+- [ ] Challenge: Password generator app
+- [ ] Challenge: Frontend Quiz app
 
 #### Other Frontend Mentor Challenges
 
@@ -170,6 +178,7 @@ I'm using the learning paths on [Frontend Mentor](https://www.frontendmentor.io/
 - [x] Challenge: [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component)
 - [x] Challenge: [Order summary card](https://github.com/SabineEmden/fm-order-summary-component)
 - [x] Challenge: [Stats preview card component](https://github.com/SabineEmden/fm-stats-preview-card-component)
+- [ ] Challenge: Tech book club landing page
 
 ## Acknowledgements
 
