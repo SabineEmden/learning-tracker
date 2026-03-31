@@ -82,7 +82,7 @@ I worked on [3-column preview card component](https://github.com/SabineEmden/fm-
 
 - Wrote code review for a solution submitted by another Frontend Mentor community member.
 
-Reading and reviewing code written by other developers is an important skill. But I'm still undecided whether I want to count the time I spent writing code reviews towards this challenge. Writin code reviews is more a communications skills than a coding skill.
+Reading and reviewing code written by other developers is an important skill. But I'm still undecided whether I want to count the time I spent writing code reviews towards this challenge. Writing code reviews is more a communications skills than a coding skill.
 
 I also worked on [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component).
 
@@ -548,3 +548,11 @@ I started the [Tech book club landing page](https://github.com/SabineEmden/fm-te
 I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
 
 - Structured remaining page sections with HTML.
+
+## Day 58: Tuesday, March 31, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Added CSS style sheet.
+- Declared CSS custom properties for color, spacing, and border radius.
+- Declared font face rules.
