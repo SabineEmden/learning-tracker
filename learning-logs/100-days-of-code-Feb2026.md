@@ -556,3 +556,10 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 - Added CSS style sheet.
 - Declared CSS custom properties for color, spacing, and border radius.
 - Declared font face rules.
+
+## Day 59: Wednesday, April 1, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Added customized CSS reset
+- Added baseline styles
