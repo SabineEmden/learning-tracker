@@ -563,3 +563,13 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 
 - Added customized CSS reset
 - Added baseline styles
+
+## Day 60: Thursday, April 2, 2026
+
+I started the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog). a personal blog about learning web development.
+
+- Started a new Astro project with the [Astro Cactus](https://astro-cactus.chriswilliams.dev/) theme by Chris Williams.
+- Set up a GitHub repository.
+- Edited the template's config file `src/site.config.ts`.
+
+This is going to be my project for the long Easter weekend. My goal is to have a functioning personal website with a blog, a notes section, and a `/now` page up and running by Sunday evening.
