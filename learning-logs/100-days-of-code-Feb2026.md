@@ -566,10 +566,23 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 
 ## Day 60: Thursday, April 2, 2026
 
-I started the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog). a personal blog about learning web development.
+I started the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog), a personal blog about learning web development.
 
 - Started a new Astro project with the [Astro Cactus](https://astro-cactus.chriswilliams.dev/) theme by Chris Williams.
 - Set up a GitHub repository.
 - Edited the template's config file `src/site.config.ts`.
 
 This is going to be my project for the long Easter weekend. My goal is to have a functioning personal website with a blog, a notes section, and a `/now` page up and running by Sunday evening.
+
+## Day 61: Friday, April 3, 2026
+
+I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog), a personal blog about learning web development.
+
+- Updated Astro and all official integrations.
+- Merged two pull requests by GitHub dependabot to update other dependencies.
+- Updated astro-webmanifest options.
+- Replaced icon for favicon and manifest icons.
+- Replaced default og:image.
+- Edited social links.
+
+I spent some time trying to figure up whether I could set the repository of the Astro theme as an upstream remote and pull changed into my repository. Unfortunately, that doesn't seem to be an option for a GitHub repository created from a template or for a new Astro project built from a theme.
