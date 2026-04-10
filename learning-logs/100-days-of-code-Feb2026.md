@@ -594,3 +594,11 @@ I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-
 - Edited intro section on index page.
 - Replaced emoji in page footer.
 - Replaced logo in page header.
+
+## Day 63: Sunday, April 5, 2026
+
+I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog), my personal blog about learning web development.
+
+- Replaced About page with Now page.
+- Added a new note.
+- Deleted sample note.
