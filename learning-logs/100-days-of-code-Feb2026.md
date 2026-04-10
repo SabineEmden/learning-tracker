@@ -619,3 +619,19 @@ I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-
 - Deployed project on Netlify. 🥳
 - Edited social links for website verification.
 - Added code for author attribution on Fedivers to Head component.
+
+## Day 66: Wednesday, April 8, 2026
+
+I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog), my personal blog about learning web development.
+
+- Set up webmentions:
+  - Signed up to [Webmention.io](Webmention.io).
+  - Created `.env` file for environmental variables.
+  - Signed up to [Bridgy](brid.gy).
+  - Set environmental variables for deploys on Netlify.
+  - Added note to test webmentions.
+  - Added posts to test webmentions.
+  - Tested webmentions successfully for local environment.
+  - Next is testing for deploy on Netlify.
+
+It look me a while to set up the `.env` file correctly. I had mistakenly assumed `.env` was a file extension, not the whole file name. And I learn that the Astro Cactus theme shows webmentions only for posts and not for notes.
