@@ -635,3 +635,15 @@ I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-
   - Next is testing for deploy on Netlify.
 
 It look me a while to set up the `.env` file correctly. I had mistakenly assumed `.env` was a file extension, not the whole file name. And I learn that the Astro Cactus theme shows webmentions only for posts and not for notes.
+
+## Day 67: Thursday, April 9, 2026
+
+I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog), my personal blog about learning web development.
+
+- Tested webmentions successfully for deploys on Netlify.
+- Deleted the webmentions I had used for testing.
+- Deleted the posts and notes I had used for testing.
+- Deleted the `.data/webmentions.json` file.
+- Reset git commits in local repo to yesterday's last commit.
+
+I managed to mess up the webmentions right after I had added them successfully. Now I have the API call in an infinite loop every time I start the development server in my local environment.
