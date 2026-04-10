@@ -646,4 +646,14 @@ I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-
 - Deleted the `.data/webmentions.json` file.
 - Reset git commits in local repo to yesterday's last commit.
 
-I managed to mess up the webmentions right after I had added them successfully. Now I have the API call in an infinite loop every time I start the development server in my local environment.
+I managed to mess up the webmentions right after I had added them successfully. Now I have the API call in an infinite loop every time I start the development server in my local environment. 😞
+
+## Day 68: Friday, April 10, 2026
+
+I completed setting up the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog), my personal blog about learning web development.
+
+- Disabled webmentions by deleting the environmental variables.
+- Deleted all posts and notes for testing webmentions.
+- Add welcome post.
+
+This completes my detour to setting up a new version of my personal website. It took me five days more than I had planned and didn't all go according to plan. Nevertheless, I'm happy with the result. 🙂
