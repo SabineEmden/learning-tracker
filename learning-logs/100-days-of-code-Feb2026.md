@@ -654,6 +654,12 @@ I completed setting up the [Astro Cactus Blog](https://github.com/SabineEmden/as
 
 - Disabled webmentions by deleting the environmental variables.
 - Deleted all posts and notes for testing webmentions.
-- Add welcome post.
+- Added welcome post.
 
 This completes my detour to setting up a new version of my personal website. It took me five days more than I had planned and didn't all go according to plan. Nevertheless, I'm happy with the result. 🙂
+
+## Day 60: Saturday, April 11, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Styled buttons in default state.
