@@ -658,8 +658,14 @@ I completed setting up the [Astro Cactus Blog](https://github.com/SabineEmden/as
 
 This completes my detour to setting up a new version of my personal website. It took me five days more than I had planned and didn't all go according to plan. Nevertheless, I'm happy with the result. 🙂
 
-## Day 60: Saturday, April 11, 2026
+## Day 69: Saturday, April 11, 2026
 
 I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
 
 - Styled buttons in default state.
+
+## Day 70: Sunday, April 12, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Styled buttons in focus and hover states.
