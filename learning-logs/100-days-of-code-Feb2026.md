@@ -669,3 +669,11 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
 
 - Styled buttons in focus and hover states.
+
+## Day 71: Monday, April 13, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Styled the rating component.
+- Read up on list styling to refresh my memory.
+- Drafted a blog post about my reading list.
