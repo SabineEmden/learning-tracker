@@ -677,3 +677,11 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 - Styled the rating component.
 - Read up on list styling to refresh my memory.
 - Drafted a blog post about my reading list.
+
+## Day 72: Tuesday, April 14, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Styled unordered lists with check mark marker.
+
+The unordered lists in the read-together section and the membership section have more differences than I had noticed. I probably will have to refactor them and move the code from components to their individual sections.
