@@ -685,3 +685,10 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 - Styled unordered lists with check mark marker.
 
 The unordered lists in the read-together section and the membership section have more differences than I had noticed. I probably will have to refactor them and move the code from components to their individual sections.
+
+## Day 73: Wednesday, April 15, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Laid out page header.
+- Set up overall grid on main landmark.
