@@ -692,3 +692,11 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 
 - Laid out page header.
 - Set up overall grid on main landmark.
+
+## Day 74: Thursday, April 16, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Laid out hero section for mobile view.
+- Adapted hero section for tablet and desktop view.
+- Added gradient to heading in hero section.
