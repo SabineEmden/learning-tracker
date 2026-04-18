@@ -700,3 +700,11 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 - Laid out hero section for mobile view.
 - Adapted hero section for tablet and desktop view.
 - Added gradient to heading in hero section.
+
+## Day 75: Friday, April 17, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Laid out .read-together section for mobile view.
+- Adjusted checklist component for tablet view.
+- Adjusted .read-together section for tablet view.
