@@ -708,3 +708,11 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 - Laid out .read-together section for mobile view.
 - Adjusted checklist component for tablet view.
 - Adjusted .read-together section for tablet view.
+
+## Day 76: Saturday, April 18, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Applied image fix to all images in media objects.
+- Adjusted .read-together section for desktop view.
+- Fixed grid gap and max-width for hero section.
