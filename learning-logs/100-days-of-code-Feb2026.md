@@ -716,3 +716,17 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 - Applied image fix to all images in media objects.
 - Adjusted .read-together section for desktop view.
 - Fixed grid gap and max-width for hero section.
+
+## Day 77: Sunday, April 19, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+Watched videos by Kevin Powell:
+
+- [CSS position deep dive](https://www.youtube.com/watch?v=fF_NVrd1s14)
+- [Position absolute and responsive layouts](https://www.youtube.com/watch?v=H04P5YXVssE)
+- [Before and After pseudo elements explained - part one: how they work](https://www.youtube.com/watch?v=zGiirUiWslI)
+- [CSS Before and After pseudo elements explained - part two: the content property](https://www.youtube.com/watch?v=xoRbkm8XgfQ)
+- [CSS Before and After pseudo elements explained - part three: as design elements](https://www.youtube.com/watch?v=djbtPnNmc0I)
+
+I didn't write any code today, which is a fail for this challenge. But I needed to learn more about CSS position and the `::before` and `::after` pseudo-elements to make progress on my project.
