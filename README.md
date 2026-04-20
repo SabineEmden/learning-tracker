@@ -26,15 +26,15 @@ Tracking my technical skills, personal projects, coursework, and coding challeng
 
 ### Personal Website
 
-_Under active development_
+_Good enough for now_
 
 **Live site:** https://sabineemden.com
 
-The website is powered by Astro, GitHub, and Netlify and based on the official [Astro Blog](https://astro.build/themes/details/blog/) template. I customized the template to my needs and made changes to improve responsiveness and accessibility.
+The website is powered by Astro, GitHub, and Netlify and based on the [Astro Cactus](https://astro-cactus.chriswilliams.dev/) theme by Chris Williams.
 
-**Skills used:** Astro, JavaScript, CSS, responsive design, web accessibility, HTML, version control with git and GitHub.
+**Skills used:** Astro, version control with git and GitHub.
 
-[GitHub repository](https://github.com/SabineEmden/astro-website)
+[GitHub repository](https://github.com/SabineEmden/astro-cactus-blog)
 
 ## Coursework
 
