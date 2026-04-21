@@ -730,3 +730,11 @@ Watched videos by Kevin Powell:
 - [CSS Before and After pseudo elements explained - part three: as design elements](https://www.youtube.com/watch?v=djbtPnNmc0I)
 
 I didn't write any code today, which is a fail for this challenge. But I needed to learn more about CSS position and the `::before` and `::after` pseudo-elements to make progress on my project.
+
+## Day 78: Monday, April 20, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Added background color and pattern to header and hero for mobile view.
+- Adjusted background on header and hero for tablet view, added glow pattern.
+- Adjusted background on header and hero for desktop view, extended background to full bleed.
