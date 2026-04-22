@@ -738,3 +738,7 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 - Added background color and pattern to header and hero for mobile view.
 - Adjusted background on header and hero for tablet view, added glow pattern.
 - Adjusted background on header and hero for desktop view, extended background to full bleed.
+
+## ERROR DAY: Tuesday, April 21, 2026
+
+Over the last couple of days, I have been struggling more and more with procrastination and overeating. Both are early warning signs that my mental health is sliding towards anxiety and depression. Today, it was so bad I decided to take a step back to re-evaluate my mindfulness and mediation practice, which I neglected over the last couple of months. To find my way back into a regular formal and informal practice, I decided to revisit mindfulness-based cognitive therapy (MBCT) working with <cite>The Mindful Way Workbook</cite> by John Teasdale, Mark Williams, and Zindel Segal. It's an eight-week program that requires about an hour of time per day. I have done MBCT in a group before, so this is a refresher for me.
