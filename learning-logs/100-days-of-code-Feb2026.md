@@ -742,3 +742,12 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 ## ERROR DAY: Tuesday, April 21, 2026
 
 Over the last couple of days, I have been struggling more and more with procrastination and overeating. Both are early warning signs that my mental health is sliding towards anxiety and depression. Today, it was so bad I decided to take a step back to re-evaluate my mindfulness and mediation practice, which I neglected over the last couple of months. To find my way back into a regular formal and informal practice, I decided to revisit mindfulness-based cognitive therapy (MBCT) working with <cite>The Mindful Way Workbook</cite> by John Teasdale, Mark Williams, and Zindel Segal. It's an eight-week program that requires about an hour of time per day. I have done MBCT in a group before, so this is a refresher for me.
+
+## Day 79: Wednesday, April 22, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Reviewed the CSS code.
+- Made minor improvements to baseline styles, utilities, and components.
+
+Today wasn't great, but better than yesterday.
