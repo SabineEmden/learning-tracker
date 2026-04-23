@@ -751,3 +751,10 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 - Made minor improvements to baseline styles, utilities, and components.
 
 Today wasn't great, but better than yesterday.
+
+## Day 80: Thursday, April 23, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Moved breakpoints for tablet and desktop views.
+- Fixed minor issues in hero section and .read-together section.
