@@ -764,3 +764,11 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
 
 - Styled .not-average section for mobile, tablet, and desktop views.
+
+## Day 82: Saturday, April 25, 2026
+
+REST & RECOVERY DAY
+
+I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog), my personal blog about learning web development.
+
+- Updated /now page.
