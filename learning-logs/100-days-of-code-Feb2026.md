@@ -772,3 +772,11 @@ REST & RECOVERY DAY
 I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog), my personal blog about learning web development.
 
 - Updated /now page.
+
+## Day 83: Sunday, April 26, 2026
+
+REST & RECOVERY DAY: no coding today
+
+I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog), my personal blog about learning web development.
+
+- I brainstormed ideas for blog posts.
