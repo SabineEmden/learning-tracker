@@ -780,3 +780,9 @@ REST & RECOVERY DAY: no coding today
 I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog), my personal blog about learning web development.
 
 - I brainstormed ideas for blog posts.
+
+## Day 84: Monday, April 27, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Added background to .journey section.
