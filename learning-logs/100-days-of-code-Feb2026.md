@@ -786,3 +786,9 @@ I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-
 I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
 
 - Added background to .journey section.
+
+## Day 85: Tuesday, April 28, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Styled numbered list in .journey section
