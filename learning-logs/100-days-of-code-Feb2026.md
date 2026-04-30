@@ -798,3 +798,9 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
 
 - Styled .membership section for mobile view.
+
+## Day 87: Thursday, April 30, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Styled .membership section for tablet and desktop views.
