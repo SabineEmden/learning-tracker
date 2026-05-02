@@ -804,3 +804,12 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
 
 - Styled .membership section for tablet and desktop views.
+
+## Day 88: Friday, May 1, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Styled `.testimonial` section for mobile, tablet, and desktop views.
+- Styled `.ready` section for mobile, tablet, and desktop views.
+
+I still working on the background color and pattern spanning the `.ready` section and the footer. I have a feeling that anchor positioning for the `::before` pseudo-element for the background, either with two anchors or with an anchor in addition to the regular containing element may help.
