@@ -813,3 +813,17 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 - Styled `.ready` section for mobile, tablet, and desktop views.
 
 I still working on the background color and pattern spanning the `.ready` section and the footer. I have a feeling that anchor positioning for the `::before` pseudo-element for the background, either with two anchors or with an anchor in addition to the regular containing element may help.
+
+Resources:
+
+- Video [A couple of great anchor positioning use cases](https://www.youtube.com/watch?v=lXS2P3xtAUY) by Kevin Powell on YouTube
+- Article [CSS Anchor Positioning Guide](https://css-tricks.com/css-anchor-positioning-guide/) by Juan Diego Rodriguez for CSS-Tricks.
+- Article [The Basics of Anchor Positioning](https://ishadeed.com/article/anchor-positioning/) by Ahmad Shadeed
+
+## Day 89: Saturday, May 2, 2026
+
+REST & RECOVERY DAY
+
+I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog), my personal blog about learning web development.
+
+- Updated /now page: audiobooks.
