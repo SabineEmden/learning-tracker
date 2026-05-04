@@ -827,3 +827,11 @@ REST & RECOVERY DAY
 I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog), my personal blog about learning web development.
 
 - Updated /now page: audiobooks.
+
+## Day 90: Saturday, May 2, 2026
+
+REST & RECOVERY DAY
+
+I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog), my personal blog about learning web development.
+
+- Upgraded Astro and all official integrations to the latest versions.
