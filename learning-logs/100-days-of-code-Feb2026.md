@@ -828,10 +828,18 @@ I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-
 
 - Updated /now page: audiobooks.
 
-## Day 90: Saturday, May 2, 2026
+## Day 90: Sunday, May 3, 2026
 
 REST & RECOVERY DAY
 
 I worked on the [Astro Cactus Blog](https://github.com/SabineEmden/astro-cactus-blog), my personal blog about learning web development.
 
 - Upgraded Astro and all official integrations to the latest versions.
+
+The deploy on Netlify failed. I need to migrate the project from npm to pnpm.
+
+## Day 91: Monday, May 4, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Edited README file.
