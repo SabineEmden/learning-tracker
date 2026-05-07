@@ -847,3 +847,15 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 ## ERROR DAY: Tuesday, May 5, 2026
 
 No coding.
+
+## Day 92: Wednesday, May 6, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Styled the page footer for mobile, tablet, and desktop views.
+- Used anchor positioning to extend the decorative background from .ready section to page footer.
+- Fixed error flagged by HTML validator.
+- Removed comments with links to helpful resources from CSS style sheet.
+- Combined CSS background properties in `background` shorthand property.
+- Compared solution at different viewport widths with design and fixed minor discrepancies.
+- Added helpful resources for anchor positioning to README.
