@@ -859,3 +859,11 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 - Combined CSS background properties in `background` shorthand property.
 - Compared solution at different viewport widths with design and fixed minor discrepancies.
 - Added helpful resources for anchor positioning to README.
+
+## Day 93: Thurday, May 7, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Learned about and solved classic scrollbar problem.
+- Customized README file.
+- Submitted my solution.
