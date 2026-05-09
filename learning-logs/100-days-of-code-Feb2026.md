@@ -860,10 +860,19 @@ I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-
 - Compared solution at different viewport widths with design and fixed minor discrepancies.
 - Added helpful resources for anchor positioning to README.
 
-## Day 93: Thurday, May 7, 2026
+## Day 93: Thursday, May 7, 2026
 
 I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
 
 - Learned about and solved classic scrollbar problem.
 - Customized README file.
 - Submitted my solution.
+
+## Day 94: Friday, May 8, 2026
+
+I completed the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Fixed issues flagged in the solution report.
+- Left feedback on solution report for Frontend Mentor team on Discord.
+- Asked for community feedback on Frontend Mentor Discord.
+- Wrote code review.
