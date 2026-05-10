@@ -876,3 +876,11 @@ I completed the [Tech book club landing page](https://github.com/SabineEmden/fm-
 - Left feedback on solution report for Frontend Mentor team on Discord.
 - Asked for community feedback on Frontend Mentor Discord.
 - Wrote code review.
+
+## Day 95: Saturday, May 9, 2026
+
+REST & RECOVERY DAY
+
+- Collected writing prompts for blog posts in Capacities app.
+
+I was very tired because I went to bed too late last night.
