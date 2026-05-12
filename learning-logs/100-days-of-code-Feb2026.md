@@ -888,3 +888,11 @@ I was very tired because I went to bed too late last night.
 ## Day 96: Sunday, May 10, 2026
 
 REST & RECOVERY DAY
+
+## Day 97: Monday, May 11, 2026
+
+I started the [JavaScript fundamentals](https://www.frontendmentor.io/learning-paths/javascript-fundamentals-oR7g6-mTZ-) learning path on Frontend Mentor.
+
+- Read the article "Welcome to the JS fundamentals path!".
+- Read the article "Setting up your project to use JavaScript".
+- Started the article "The Document Object Model".
