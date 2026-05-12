@@ -896,3 +896,12 @@ I started the [JavaScript fundamentals](https://www.frontendmentor.io/learning-p
 - Read the article "Welcome to the JS fundamentals path!".
 - Read the article "Setting up your project to use JavaScript".
 - Started the article "The Document Object Model".
+
+## Day 98: Tuesday, May 12, 2026
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+The Frontend Mentor team has fixed the issues in the AI solution report that I had reported to them.
+
+- Reviewed the latest version of the AI solution report.
+- Addressed the issues that were flagged in the report.
