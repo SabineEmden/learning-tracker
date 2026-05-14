@@ -916,3 +916,11 @@ I worked on the [JavaScript fundamentals](https://www.frontendmentor.io/learning
   - [What are the different ways to select DOM elements in JavaScript?](https://www.educative.io/answers/what-are-the-different-ways-to-select-dom-elements-in-javascript) by educative.io
   - [How to Manipulate the DOM in JavaScript](https://www.freecodecamp.org/news/javascript-document-object-model-explained/) by Nathan Sebhastian for freeCodeCamp
   - [How to Modify Attributes, Classes and Styles in the DOM](https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom) by Tania Rascia, Lisa Tagliaferri and Madison Scott-Clary for DigitalOcean.
+
+## Day 100: Thursday, May 14, 2026 🥳
+
+I worked on the [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page) challenge.
+
+- Provided feedback on another developer's solution.
+
+I'm not sure this was the best use of my time. I also have to work on making my feedback more helpful and less overwhelming. Next time I'll provide feedback, I need to refer to the Frontend Mentor Guide on [Giving Quality Feedback](https://www.frontendmentor.io/guides/giving-quality-feedback) for guidance. I'll stick to reviewing just one solution for every challenge I complete.
