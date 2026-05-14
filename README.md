@@ -12,15 +12,14 @@ Tracking my technical skills, personal projects, coursework, and coding challeng
 | --------------------- | --------------------------- |
 | HTML                  | :bulb: :bulb: :bulb: :bulb: |
 | CSS                   | :bulb: :bulb: :bulb:        |
-| JavaScript            | :bulb: :bulb:               |
-| Astro                 | :bulb: :bulb:               |
-| Responsive Web Design | :bulb: :bulb:               |
+| JavaScript            | :bulb:                      |
+| Astro                 | :bulb:                      |
+| Responsive Web Design | :bulb: :bulb: :bulb:        |
 | Web Accessibility     | :bulb: :bulb:               |
-| Command Line          | :bulb: :bulb:               |
-| Git                   | :bulb: :bulb:               |
-| GitHub                | :bulb: :bulb:               |
+| Command Line          | :bulb:                      |
+| Git                   | :bulb:                      |
+| GitHub                | :bulb:                      |
 | Figma                 | :bulb:                      |
-| Agile Methodologies   | :bulb:                      |
 
 ## Personal Projects
 

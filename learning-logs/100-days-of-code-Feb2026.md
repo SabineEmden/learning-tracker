@@ -905,3 +905,14 @@ The Frontend Mentor team has fixed the issues in the AI solution report that I h
 
 - Reviewed the latest version of the AI solution report.
 - Addressed the issues that were flagged in the report.
+
+## Day 99: Wednesday, May 13, 2026
+
+I worked on the [JavaScript fundamentals](https://www.frontendmentor.io/learning-paths/javascript-fundamentals-oR7g6-mTZ-) learning path on Frontend Mentor.
+
+- Read the article "The Document Object Model".
+- Read all articles linked as "useful resources":
+  - [Using the Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) by MDN
+  - [What are the different ways to select DOM elements in JavaScript?](https://www.educative.io/answers/what-are-the-different-ways-to-select-dom-elements-in-javascript) by educative.io
+  - [How to Manipulate the DOM in JavaScript](https://www.freecodecamp.org/news/javascript-document-object-model-explained/) by Nathan Sebhastian for freeCodeCamp
+  - [How to Modify Attributes, Classes and Styles in the DOM](https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom) by Tania Rascia, Lisa Tagliaferri and Madison Scott-Clary for DigitalOcean.
